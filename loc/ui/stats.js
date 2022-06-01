@@ -45,23 +45,21 @@ export default {
       sr: 'Штета',
       ja: 'ダメージ',
       ko: '데미지',
-      cs: 'Poškození'
+      cs: 'Poškození',
       // pl: 'Obrażenia'
       // vi: 'Sát thương',
-      da: ''
+      da: 'Skade'
     },
     healing: {
       en: 'Healing',
       fr: 'Soin',
-      da: ''
+      da: 'Healing'
     },
     fame: {
-      en: 'Fame',
-      da: ''
+      en: 'Fame'
     },
     kills: {
-      en: 'Kills',
-      da: ''
+      en: 'Kills'
     }
   },
 
@@ -84,7 +82,7 @@ export default {
       ja: 'パワー',
       ko: '힘',
       cs: 'Síla',
-      da: ''
+      da: 'Strength'
     },
 
     {
@@ -105,7 +103,7 @@ export default {
       ja: 'スタミナ',
       ko: '마나',
       cs: 'Vytrvalost',
-      da: ''
+      da: 'Stamina'
     },
 
     {
@@ -166,7 +164,7 @@ export default {
       sr: 'Мудрост',
       ja: '賢さ',
       ko: '지혜',
-      cs: 'Moudrost'
+      cs: 'Moudrost',
       // vi: 'Thông thái',
       da: ''
     },
@@ -186,7 +184,7 @@ export default {
       sr: 'Срећа',
       ja: '運',
       ko: '운',
-      cs: 'Štěstí'
+      cs: 'Štěstí',
       // hu: 'Szerencse'
       // pl: 'Szczęście',
       da: ''
@@ -227,7 +225,7 @@ export default {
       sr: 'Min. штета',
       ja: '最小ダメージ',
       ko: '최소 데미지',
-      cs: 'Min. Poš.'
+      cs: 'Min. Poš.',
       // el: 'Ελάχιστη Ζημιά'
       // vi: 'Sát thương nhỏ nhất',
       da: ''
@@ -249,7 +247,7 @@ export default {
       sr: 'Max. штета',
       ja: '最大ダメージ',
       ko: '최대 데미지',
-      cs: 'Max. Poš.'
+      cs: 'Max. Poš.',
       // vi: 'Sát thương lớn nhất',
       da: ''
     },
@@ -312,7 +310,7 @@ export default {
       sr: 'Критичан',
       ja: 'クリティカル',
       ko: '크리티컬',
-      cs: 'Kritický'
+      cs: 'Kritický',
       // el: 'Καίριο Χτύπημα',
       da: ''
     },
@@ -330,7 +328,7 @@ export default {
       tr: 'Hareket ',
       ja: '移動速度',
       ko: '이속',
-      cs: 'Rychl. Pohybu'
+      cs: 'Rychl. Pohybu',
       // el: 'Ταχύτητα Κίνησης'
       // pl: 'Prędkość ruchu'
       // vi: 'Tốc độ di chuyển'
@@ -375,7 +373,7 @@ export default {
       tr: 'Saldırı Hızı',
       ja: '攻撃速度',
       ko: '공격 속도',
-      cs: 'Rychl. Útoku'
+      cs: 'Rychl. Útoku',
       // el: 'Ταχύτητα Επίθεσης',
       da: ''
     },
@@ -394,7 +392,7 @@ export default {
       tr: 'Eşya Bulma',
       ja: 'アイテム探知',
       ko: '아이템 흭득',
-      cs: 'Hledaní předmětů'
+      cs: 'Hledaní předmětů',
       // el: 'Εύρεση Αντικειμένων'
       // pl: 'Wyszukiwanie przedmiotu'
       // vi: 'Tỉ lệ tìm vật phẩm',
@@ -417,7 +415,7 @@ export default {
       tr: 'Çanta Yuvaları',
       ja: 'バッグの広さ',
       ko: '가방 공간',
-      cs: 'Místa v baťohu'
+      cs: 'Místa v baťohu',
       // es: 'Espacios de inventario',
       da: ''
     },
@@ -453,7 +451,8 @@ export default {
       it: 'Punti stat',
       sr: 'Поени за стат.',
       ko: '스텟 포인트',
-      cs: 'Statistické Dody'
+      cs: 'Statistické Dody',
+      da: ''
       // ja: 'ステータスポイント',
       // tr: 'İstatistik Puanları',
       // pl: 'Punkty Statystyk'
@@ -476,7 +475,8 @@ export default {
       tr: 'Beceri Puanları',
       ja: 'スキルポイント',
       ko: '스킬 포인트',
-      cs: 'Dovednostní Body'
+      cs: 'Dovednostní Body',
+      da: ''
       // el: 'Πόντοι Ικανοτήτων',
     },
 
@@ -487,8 +487,7 @@ export default {
     },
 
     {
-      $$: 'Gear Score',
-      da: ''
+      $$: 'Gear Score'
     },
 
     {
@@ -514,9 +513,9 @@ export default {
       tr: '% Artan Hasar',
       ja: '% ダメージ増加',
       ko: '% 데미지 증가',
-      cs: '% Zvýšení poš.'
-      // pl: '% Zwiększone obrażenia',
+      cs: '% Zvýšení poš.',
       da: ''
+      // pl: '% Zwiększone obrażenia',
     },
 
     {
@@ -556,7 +555,8 @@ export default {
       tr: '% Hareket Hızı Düşürme',
       ja: '% 移動速度低下',
       ko: '% 이속 감소',
-      cs: '% Redukce Rychl. Pohybu'
+      cs: '% Redukce Rychl. Pohybu',
+      da: ''
       // de: '% verminderte Laufgeschwindigkeit',
     },
 

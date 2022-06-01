@@ -912,7 +912,7 @@ export default {
   incomingdamage: {
     en: 'Incoming damage',
     fr: 'Dégat entrant',
-    da: ''
+    da: 'Indkommende skade'
   },
 
   incominghealing: {
