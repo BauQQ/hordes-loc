@@ -20,7 +20,8 @@ export default {
     sr: 'Подешавања',
     it: 'Impostazioni',
     ja: '設定',
-    cs: 'Nastavení'
+    cs: 'Nastavení',
+    da: 'Indstillinger'
   },
 
   // ---- Controls
@@ -44,17 +45,20 @@ export default {
     sr: 'Контроле',
     it: 'Controlli',
     ja: '操作',
-    cs: 'Ovládání'
+    cs: 'Ovládání',
+    da: 'Kontrol'
   },
 
   skillbar: {
     en: 'Skillbar',
-    fr: 'Barre de compétences'
+    fr: 'Barre de compétences',
+    da: 'Skillbar'
   },
 
   skillbarslots: {
     en: 'Skillbar slots',
-    fr: 'Emplacements de barre de compétences'
+    fr: 'Emplacements de barre de compétences',
+    da: 'Skillbar pladser'
   },
 
   keybindings: {
@@ -75,12 +79,14 @@ export default {
     tr: 'Tuş atamaları',
     ja: 'キー割り当て',
     ko: '키 고정',
-    cs: 'Klávesové zkratky'
+    cs: 'Klávesové zkratky',
+    da: 'Key bindings'
   },
 
   bindingreset: {
     en: 'To reset, leave field blank.',
-    fr: 'Pour réinitialiser, laissez le champ vide.'
+    fr: 'Pour réinitialiser, laissez le champ vide.',
+    da: 'For at nulstille, efterlad blank'
   },
 
   camera: {
@@ -99,7 +105,8 @@ export default {
     ja: 'カメラ',
     ko: '카메라',
     cs: 'Kamera',
-    zh: '視角'
+    zh: '視角',
+    da: 'Kamerar'
   },
 
   mousesensitivity: {
@@ -119,7 +126,8 @@ export default {
     ja: 'マウス感度',
     ko: '민감도',
     cs: 'Senzitivita',
-    zh: '靈敏度'
+    zh: '靈敏度',
+    da: 'Følsomhed'
   },
 
   invertmousex: {
@@ -139,7 +147,8 @@ export default {
     ja: '左右反転',
     ko: '가로로 회전',
     cs: 'Převrátit vodorovně',
-    zh: '水平反轉'
+    zh: '水平反轉',
+    da: 'Invert horizontally'
   },
 
   invertmousey: {
@@ -159,7 +168,8 @@ export default {
     ja: '上下反転',
     ko: '세로로 회전',
     cs: 'Převrátit vertikálně',
-    zh: '垂直反轉'
+    zh: '垂直反轉',
+    da: 'Invert vertically'
   },
 
   pointerlock: {
@@ -180,7 +190,8 @@ export default {
     tr: 'Döndürme sırasında fareyi gizle',
     ja: '操作中にカーソル非表示',
     ko: '회전하는 중에는 마우스 숨기기',
-    cs: 'Skrýt myš během otáčení'
+    cs: 'Skrýt myš během otáčení',
+    da: 'Gem musen ved rotation'
   },
 
   lockedcamera: {
@@ -203,7 +214,8 @@ export default {
     sr: 'Фиксна камера',
     it: 'Telecamera fissa',
     ja: 'カメラを固定',
-    cs: 'Uzamčená kamera'
+    cs: 'Uzamčená kamera',
+    da: 'Lås kamera'
   },
 
   // ---- Graphics
@@ -227,7 +239,8 @@ export default {
     sr: 'Графика',
     it: 'Grafica',
     ja: 'グラフィック',
-    cs: 'Grafika'
+    cs: 'Grafika',
+    da: 'Grafik'
   },
 
   viewrange: {
@@ -250,7 +263,8 @@ export default {
     it: 'Distanza visiva',
     sr: 'Дистанца погледа',
     ja: '描画範囲',
-    cs: 'Rozbrazení vzdálenosti'
+    cs: 'Rozbrazení vzdálenosti',
+    da: 'Syns rækkevidde'
   },
 
   resolution: {
@@ -273,7 +287,8 @@ export default {
     sr: 'Резолуција',
     it: 'Risoluzione',
     ja: '解像度',
-    cs: 'Rozlišení'
+    cs: 'Rozlišení',
+    da: 'Opløsning'
   },
 
   fxaa: {
@@ -283,19 +298,22 @@ export default {
   bloom: {
     en: 'Bloom',
     ru: 'Bloom',
-    zh: '泛光特效'
+    zh: '泛光特效',
+    da: 'Bloom'
   },
 
   disableoffscreen: {
     en: 'Disable off-screen creatures',
     ru: 'Отключить монстров за пределами экрана',
     fr: 'Désactiver les créatures hors de l\'écran',
-    zh: '禁止鎖定視野外生物'
+    zh: '禁止鎖定視野外生物',
+    da: 'Slå ikke-synglige væsner fra'
   },
 
   offscreendesc: {
     en: 'Improves performance but mutes offscreen action',
-    fr: 'Améliore les performance mais désactive les actions hors écran'
+    fr: 'Améliore les performance mais désactive les actions hors écran',
+    da: 'Forbedre performance, men fjern lyd fra ikke synglige handlinger'
   },
 
   skilleffects: {
@@ -318,7 +336,8 @@ export default {
     it: 'Effetti delle Skills',
     sr: 'Ефекти вештина',
     ja: 'スキル演出',
-    cs: 'Efekty dovedností'
+    cs: 'Efekty dovedností',
+    da: 'Skill Effekter'
   },
 
   shadows: {
@@ -339,7 +358,8 @@ export default {
     tr: 'Gölgeler',
     ja: '影',
     ko: '그림자',
-    cs: 'Stíny'
+    cs: 'Stíny',
+    da: 'Skygger'
   },
 
   grass: {
@@ -360,7 +380,8 @@ export default {
     tr: 'Çim',
     ja: '草',
     ko: '잔디',
-    cs: 'Tráva'
+    cs: 'Tráva',
+    da: 'Græs'
   },
 
   clouds: {
@@ -381,7 +402,8 @@ export default {
     tr: 'Çimler',
     ja: '雲',
     ko: '구름',
-    cs: 'Mraky'
+    cs: 'Mraky',
+    da: 'Skyer'
   },
 
   particles: {
@@ -402,27 +424,32 @@ export default {
     tr: 'Parçacıklar',
     ja: 'パーティクル',
     ko: '자연 현상',
-    cs: 'Částice'
+    cs: 'Částice',
+    da: 'Partikler'
   },
 
   fogpattern: {
     en: 'Fog pattern',
-    fr: 'Paterne du brouillard'
+    fr: 'Paterne du brouillard',
+    da: 'Tåge møster'
   },
 
   shadowresolution: {
     en: 'Shadow Resolution',
-    fr: 'Résolution des ombres'
+    fr: 'Résolution des ombres',
+    da: 'Skygge Opløsning'
   },
 
   creatureshadows: {
     en: 'Shadows on creatures',
-    fr: 'Ombres sur les créatures'
+    fr: 'Ombres sur les créatures',
+    da: 'Skygger på væsner'
   },
 
   anisotropy: {
     en: 'Anisotropy',
-    fr: 'Anisotropie'
+    fr: 'Anisotropie',
+    da: 'Anisotropi'
   },
 
   // ---- Audio
@@ -446,7 +473,8 @@ export default {
     sr: 'Звук',
     it: 'Audio',
     ja: 'オーディオ',
-    cs: 'Zvuk'
+    cs: 'Zvuk',
+    da: 'Lyd'
   },
 
   sfxvolume: {
@@ -469,17 +497,20 @@ export default {
     it: 'SFX Volume',
     ja: '効果音',
     cs: 'Hlasitost SFX',
-    zh: '音效音量'
+    zh: '音效音量',
+    da: 'SFX Lydstyrke'
   },
 
   sfxmultiplier: {
     en: 'External SFX Multiplier',
-    fr: 'Multiplicateur SFX extérieur'
+    fr: 'Multiplicateur SFX extérieur',
+    da: 'Eksterne SFX Multiplikator'
   },
 
   multiplierdesc: {
     en: 'Spells not cast by you can be reduced in volume. 100% = No sound reduction, 50% = half volume.',
-    fr: 'Vous pouvez réduire le son des compétences dont vous n\'êtes pas le lanceur. 100% = Aucune réduction de son, 50% = volume réduit de moitié.'
+    fr: 'Vous pouvez réduire le son des compétences dont vous n\'êtes pas le lanceur. 100% = Aucune réduction de son, 50% = volume réduit de moitié.',
+    da: 'Besværgelser ikke kaste af dig, kan bliver reduceret i lydstyrke. 100% = Ingen lyd reduktion, 50% = halveret lydstyrke.'
   },
 
   ambiencevolume: {
@@ -492,7 +523,8 @@ export default {
     tr: 'Ambiyans sesi',
     ja: '環境音',
     cs: 'Hlasitost prostředí',
-    zh: '環境音量'
+    zh: '環境音量',
+    da: 'Stemnings Lydstyrke'
   },
 
   musicvolume: {
@@ -512,7 +544,8 @@ export default {
     ja: '音楽',
     ko: '음악 볼륨',
     cs: 'Hlasitost Hudby',
-    zh: '音樂音量'
+    zh: '音樂音量',
+    da: 'Musik Lydstyrke'
   },
 
   // ---- Chat
@@ -536,7 +569,8 @@ export default {
     sr: 'Чет',
     it: 'Chat',
     ja: 'チャット',
-    cs: 'Chat'
+    cs: 'Chat',
+    da: 'Chat'
   },
 
   chatbubbles: {
@@ -557,7 +591,8 @@ export default {
     tr: 'Sohbet balonlarını göster',
     ja: 'チャットをキャラクター上に表示',
     ko: '채팅 표시',
-    cs: 'Zobrazit bubliny chatu'
+    cs: 'Zobrazit bubliny chatu',
+    da: 'Vis chatbobler'
   },
 
   combatlog: {
@@ -578,7 +613,8 @@ export default {
     tr: 'Savaş Günlüğü',
     ja: '戦闘ログ',
     ko: '전투 로그',
-    cs: 'Bojový deník'
+    cs: 'Bojový deník',
+    da: 'Kamplog'
   },
 
   // ---- User interface
@@ -602,7 +638,8 @@ export default {
     sr: 'Интерфејс',
     it: 'Interfaccia',
     ja: 'インターフェース',
-    cs: 'Rozhraní'
+    cs: 'Rozhraní',
+    da: 'Interface'
   },
 
   language: {
@@ -625,7 +662,8 @@ export default {
     sr: 'Језик',
     it: 'Linguaggio',
     ja: '言語',
-    cs: 'Jazyk'
+    cs: 'Jazyk',
+    da: 'Sprog'
   },
 
   invwidth: {
@@ -648,7 +686,8 @@ export default {
     tr: 'Enventar genişliği',
     ja: 'インベントリの行',
     cs: 'Šířka inventáře',
-    zh: '物品欄寬度'
+    zh: '物品欄寬度',
+    da: 'Taske brede'
   },
 
   // Do NOT translate "Stash"
@@ -669,7 +708,8 @@ export default {
     ja: 'Stashの行',
     ko: 'Stash 너비',
     cs: 'Šířka Stash',
-    zh: 'Stash 寬度'
+    zh: 'Stash 寬度',
+    da: 'Stash brede'
   },
 
   // Do NOT translate "Stash"
@@ -690,7 +730,8 @@ export default {
     ja: 'Stashの列',
     ko: 'Stash 높이',
     cs: 'Výška Stash',
-    zh: 'Stash 高度'
+    zh: 'Stash 高度',
+    da: 'Stash højde'
   },
 
   tutorial: {
@@ -713,7 +754,8 @@ export default {
     sr: 'Туторијал',
     it: 'Tutorial',
     ja: 'チュートリアル',
-    cs: 'Vyukový program'
+    cs: 'Vyukový program',
+    da: 'Tutorial'
   },
 
   resettutorial: {
@@ -736,7 +778,8 @@ export default {
     sr: 'Понови туторијал',
     it: 'Ripristina tutorial',
     ja: 'チュートリアルを初期化',
-    cs: 'Obnovit vyukový program'
+    cs: 'Obnovit vyukový program',
+    da: 'Genstart Tutorial'
   },
 
   disabletutorial: {
@@ -757,7 +800,8 @@ export default {
     it: 'Disabilita il tutorial',
     ja: 'チュートリアルを無効化',
     ko: '튜토리얼 건너뛰기',
-    cs: 'Vypnout vyukový program'
+    cs: 'Vypnout vyukový program',
+    da: 'Slå Tutorial fra.'
   },
 
   fpsping: {
@@ -767,62 +811,74 @@ export default {
   // Do not translate "FPS / Ping"
   showfps: {
     en: 'Show FPS / PING',
-    fr: 'Afficher les FPS / PING'
+    fr: 'Afficher les FPS / PING',
+    da: 'Vis FPS / PING'
   },
 
   nameplates: {
     en: 'Nameplates',
-    fr: 'Barres & Noms'
+    fr: 'Barres & Noms',
+    da: 'Navneplak'
   },
 
   drawrange: {
     en: 'Draw range',
-    fr: 'Portée d\'affichage'
+    fr: 'Portée d\'affichage',
+    da: 'Tegne Rækkevidde'
   },
 
   monsterbars: {
     en: 'Monster bars',
-    fr: 'Barres des monstres'
+    fr: 'Barres des monstres',
+    da: 'Monsterplak'
   },
 
   monsternames: {
     en: 'Monster names',
-    fr: 'Noms des monstres'
+    fr: 'Noms des monstres',
+    da: 'Monster navne'
   },
 
   friendlyplayerbars: {
     en: 'Friendly player bars',
-    fr: 'Barres des joueurs alliés'
+    fr: 'Barres des joueurs alliés',
+    da: 'Venlige spiller barer'
   },
 
   friendlyplayernames: {
     en: 'Friendly player names',
-    fr: 'Noms des joueurs alliés'
+    fr: 'Noms des joueurs alliés',
+    da: 'Venlige spiller navne'
   },
 
   enemyplayerbars: {
     en: 'Enemy player bars',
-    fr: 'Barres des joueurs ennemis'
+    fr: 'Barres des joueurs ennemis',
+    da: 'Fjendtlige spiller barer'
   },
 
   enemyplayernames: {
     en: 'Enemy player names',
-    fr: 'Noms des joueurs ennemis'
+    fr: 'Noms des joueurs ennemis',
+    da: 'Fjendtlige spiller barer'
   },
 
   showlevel: {
     en: 'Always show level',
-    fr: 'Toujours montrer le niveau'
+    fr: 'Toujours montrer le niveau',
+    da: 'Vis altid level'
   },
 
   classcolors: {
     en: 'Class color bars',
-    fr: 'Barres colorées par classe'
+    fr: 'Barres colorées par classe',
+    da: 'Klasse farvet barer'
   },
 
   transparency: {
     en: 'Transparency',
-    fr: 'Transparence'
+    fr: 'Transparence',
+    da: 'Gennemsigtighed'
   },
 
   drops: {
@@ -831,72 +887,86 @@ export default {
 
   showquality: {
     en: 'Show Drop Quality%',
-    fr: 'Afficher le % de Qualité du butin'
+    fr: 'Afficher le % de Qualité du butin',
+    da: 'Vis Drop % Kvalitet'
   },
 
   qualitymin: {
     en: 'Drop Quality% Minimum',
-    fr: '% de Qualité de butin minimum'
+    fr: '% de Qualité de butin minimum',
+    da: 'Drop Kvalitets % minimum'
   },
 
   excludedrops: {
     en: 'Exclude Drop Types',
-    fr: 'Types de butins exclus'
+    fr: 'Types de butins exclus',
+    da: 'Ekskludere Drop typper'
   },
 
   damagehealing: {
     en: 'Damage & Healing',
-    fr: 'Dégat et Soin'
+    fr: 'Dégat et Soin',
+    da: 'Skade og Healing'
   },
 
   incomingdamage: {
     en: 'Incoming damage',
-    fr: 'Dégat entrant'
+    fr: 'Dégat entrant',
+    da: ''
   },
 
   incominghealing: {
     en: 'Incoming healing',
-    fr: 'Soin entrant'
+    fr: 'Soin entrant',
+    da: 'Indkommende healing'
   },
 
   incomingmana: {
     en: 'Incoming mana',
-    fr: 'Mana entrant'
+    fr: 'Mana entrant',
+    da: 'Indkommende healing'
   },
 
   preventoverlap: {
     en: 'Prevent overlapping numbers',
-    fr: 'Empêcher le chevauchement des nombres'
+    fr: 'Empêcher le chevauchement des nombres',
+    da: 'Forhindre overlappende numre'
   },
 
   icons: {
     en: 'Icons & Buffs',
-    fr: 'Icônes & Buffs'
+    fr: 'Icônes & Buffs',
+    da: 'Ikoner og Bu'
   },
 
   skillcdtext: {
     en: 'Cooldown text (skills)',
-    fr: 'Texte de temps de recharge (compétences)'
+    fr: 'Texte de temps de recharge (compétences)',
+    da: 'Genopladnings tekst (skills)'
   },
 
   buffcdtext: {
     en: 'Cooldown text (buffs)',
-    fr: 'Texte de temps de recharge (buffs)'
+    fr: 'Texte de temps de recharge (buffs)',
+    da: 'Genopladnings tekst (buffs)'
   },
 
   selfbuffsonly: {
     en: 'Show your buffs only',
-    fr: 'Afficher uniquement vos buffs'
+    fr: 'Afficher uniquement vos buffs',
+    da: 'Vis kun dinne buffs'
   },
 
   flashinterval: {
     en: 'Buff timeout flash interval',
-    fr: 'Intervalle du Flash de fin de Buff'
+    fr: 'Intervalle du Flash de fin de Buff',
+    da: 'Buff timeout blink interval'
   },
 
   flashduration: {
     en: 'Buff timeout flash duration',
-    fr: 'Durée du flash de fin de Buff'
+    fr: 'Durée du flash de fin de Buff',
+    da: 'Buff timeout blink længde'
   },
 
   buffmax: {
@@ -909,39 +979,46 @@ export default {
 
   updateratelimit: {
     en: 'Limited party buff update rate',
-    fr: 'Taux de rafraîchissement des buffs en Party limité'
+    fr: 'Taux de rafraîchissement des buffs en Party limité',
+    da: 'Begranset party buff opdatering frekvens'
   },
 
   unitframes: {
     en: 'Unitframes',
-    fr: 'Cadres d\'unité'
+    fr: 'Cadres d\'unité',
+    da: 'Unitframes'
   },
 
   showselfparty: {
     en: 'Show self in party',
-    fr: 'S\'afficher dans la Party'
+    fr: 'S\'afficher dans la Party',
+    da: 'Vis dig self i party'
   },
 
   partymana: {
     en: 'Party mana',
-    fr: 'Mana de la Party'
+    fr: 'Mana de la Party',
+    da: 'Party mana'
   },
 
   partyframewidth: {
     en: 'Party frame width',
-    fr: 'Largeur du cadre de Party'
+    fr: 'Largeur du cadre de Party',
+    da: 'Party frame brede'
   },
 
   protectedquality: {
     en: 'Protected item quality',
-    fr: 'Qualité d\'objet protégée'
+    fr: 'Qualité d\'objet protégée',
+    da: 'Beskyttet item kvalitet'
   },
 
   // ---- map
 
   map: {
     en: 'Map',
-    fr: 'Carte'
+    fr: 'Carte',
+    da: 'Kort'
   },
 
   maplowqual: {
@@ -962,7 +1039,8 @@ export default {
     tr: 'Düşük kalite modu',
     ja: '低品質モード',
     ko: '저품질 모드',
-    cs: 'Mód nízké kvality'
+    cs: 'Mód nízké kvality',
+    da: 'Lav-kvalitets mod'
   },
 
   mapshowmonsters: {
@@ -983,11 +1061,13 @@ export default {
     tr: 'Canavarları göster',
     ja: 'モンスターを表示',
     ko: '몬스터 표시',
-    cs: 'Zobrazit monstra'
+    cs: 'Zobrazit monstra',
+    da: 'Vis monstre'
   },
 
   reload: {
     en: 'Requires reload',
-    fr: 'Redémarrage du jeu requis'
+    fr: 'Redémarrage du jeu requis',
+    da: 'Kræver genindlæsning'
   }
 }

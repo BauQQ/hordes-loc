@@ -20,8 +20,9 @@ export default {
     sr: 'Умро си.',
     it: 'Sei morto.',
     ja: '死んでしまった。',
-    cs: 'Zemřel jsi'
-  },
+    cs: 'Zemřel jsi',
+    da: 'Du døde.'
+},
 
   deathmsg: {
     en: 'Press the button to be resurrected at the nearest conjurer.',
@@ -44,8 +45,9 @@ export default {
     sr: 'Притисните дугме да би сте васкрсли до најблизег Conjurer-a.',
     it: 'Premi il pulsante per risorgere dal Conjurer più vicino.',
     ja: 'ボタンを押すと近くの祈祷師へリスポーンします。',
-    cs: 'Stisknutím tlačítka budete vzkříšeni u nejbližšího kouzelníka'
-  },
+    cs: 'Stisknutím tlačítka budete vzkříšeni u nejbližšího kouzelníka',
+    da: 'Tryk på knappen for at blive genoplivet ved den nærmeste conjurer.'
+},
 
   // 'Resurrect' is used in many translations/languages.
   respawn: {
@@ -69,6 +71,7 @@ export default {
     it: 'Respawn',
     tr: 'Yeniden Doğ',
     ja: 'リスポーン',
-    cs: 'Vzkřísit' // translated "Resurrect" for lingual appropriateness
+    cs: 'Vzkřísit', // translated "Resurrect" for lingual appropriateness
+    da: 'Genopliv'
   }
 }

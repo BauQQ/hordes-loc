@@ -20,8 +20,9 @@ export default {
     sr: 'Инвентар',
     it: 'Inventario',
     ja: 'インベントリ',
-    cs: 'Inventář'
-  },
+    cs: 'Inventář',
+    da: 'Taske'
+},
 
   pick: {
     en: 'You have picked up $1.',
@@ -43,8 +44,9 @@ export default {
     it: 'Hai raccolto $1.',
     tr: 'Yerden $1 aldın.',
     ja: '$1 を拾いました。',
-    cs: 'Sebral jsi $1'
-  },
+    cs: 'Sebral jsi $1',
+    da: 'Du har samlet $1 op'
+},
 
   throw: {
     en: 'You threw away $1.',
@@ -66,8 +68,9 @@ export default {
     it: 'Hai gettato via $1.',
     sr: 'Бацио си $1.',
     ja: '$1 を捨てました。',
-    cs: 'Odhodil jsi $1'
-  },
+    cs: 'Odhodil jsi $1',
+    da: 'Du smed $1 væk'
+},
 
   full: {
     en: 'Your inventory is full.',
@@ -89,8 +92,9 @@ export default {
     sr: 'Твој инвентар је пун.',
     tr: 'Enventerin dolu',
     ja: 'インベントリが満杯です。',
-    cs: 'Tvůj inventář je plný'
-  },
+    cs: 'Tvůj inventář je plný',
+    da: 'Din taske er fuld.'
+},
 
   sold: {
     en: 'You have sold $1.',
@@ -112,8 +116,9 @@ export default {
     sr: 'Продао си $1.',
     tr: '$1 sattın.',
     ja: '$1 を売却しました。',
-    cs: 'Prodal jsi $1'
-  },
+    cs: 'Prodal jsi $1',
+    da: 'Du har solgt $1'
+},
 
   receive: {
     en: 'You have received $1',
@@ -135,8 +140,9 @@ export default {
     sr: 'Добио си $1.',
     tr: '$1 elde ettin.',
     ja: '$1 を受け取りました。',
-    cs: 'Získal jsi $1'
-  },
+    cs: 'Získal jsi $1',
+    da: 'Du har modtaget $1'
+},
 
   drop: {
     en: 'Drop item',
@@ -158,8 +164,9 @@ export default {
     it: 'Rilascia l\'oggetto',
     sr: 'Баци предмет',
     ja: '捨てる',
-    cs: 'Odhodit položku'
-  },
+    cs: 'Odhodit položku',
+    da: 'Smid ud'
+},
 
   equip: {
     en: 'Equip item',
@@ -181,8 +188,9 @@ export default {
     sr: 'Опреми предмет',
     tr: 'Eşyayı kuşan',
     ja: '装備する',
-    cs: 'Obléct předmět'
-  },
+    cs: 'Obléct předmět',
+    da: 'Tag på'
+},
 
   use: {
     en: 'Use item',
@@ -204,8 +212,9 @@ export default {
     it: 'Usa l\'oggetto',
     sr: 'Употреби предмет',
     ja: '使用する',
-    cs: 'Použít předmět'
-  },
+    cs: 'Použít předmět',
+    da: 'Brug'
+},
 
   copyitemid: {
     en: 'Copy item ID',
@@ -217,8 +226,9 @@ export default {
     tr: 'Eşya ID\'sini kopyala',
     ja: 'アイテムIDをコピー',
     cs: 'Kopírovat ID předmětu',
-    zh: '複製物品ID'
-  },
+    zh: '複製物品ID',
+    da: 'Kopier ID'
+},
 
   sell: {
     en: 'Sell item',
@@ -230,8 +240,9 @@ export default {
     tr: 'Eşya sat',
     ja: '売却する',
     cs: 'Prodat předmět',
-    zh: '出售物品'
-  },
+    zh: '出售物品',
+    da: 'Sælg'
+},
 
   splithalf: {
     en: 'Split half',
@@ -250,8 +261,9 @@ export default {
     ja: '半分に分ける',
     ko: '반으로 나누기',
     cs: 'Rozdělit na půl',
-    zh: '拆分一半'
-  },
+    zh: '拆分一半',
+    da: 'Del i to'
+},
 
   splitone: {
     en: 'Split one',
@@ -270,8 +282,9 @@ export default {
     ja: '1つ分ける',
     ko: '하나만 선택',
     cs: 'Rozdělit jeden',
-    zh: '拆分一個'
-  },
+    zh: '拆分一個',
+    da: 'Del en'
+},
 
   spend: {
     en: 'You have spent $1.',
@@ -293,8 +306,9 @@ export default {
     it: 'Hai speso $1',
     sr: 'Ти си потрошио $1.',
     ja: '$1 支払いました。',
-    cs: 'Utratil jsi $1'
-  },
+    cs: 'Utratil jsi $1',
+    da: 'Du har brugt $1'
+},
 
   death: {
     en: 'You died and lost $1.',
@@ -316,8 +330,9 @@ export default {
     it: 'Sei morto e hai perso $1',
     sr: 'Преминули сте и изгубили $1.',
     ja: '死亡した為 $1 失いました。',
-    cs: 'Zemřel jsi a ztratil jsi $1'
-  },
+    cs: 'Zemřel jsi a ztratil jsi $1',
+    da: 'Du døde og mistede $1'
+},
 
   bindlevel: [
     {$$: 'Tradable'},

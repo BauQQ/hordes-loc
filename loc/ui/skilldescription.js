@@ -62,14 +62,17 @@ export default {
   statincrement: [
     {
       en: 'For 1',
-      fr: 'Pour 1'
+      fr: 'Pour 1',
+      da: ''
     },
     {
       en: 'gain',
-      fr: 'octroie'
+      fr: 'octroie',
+      da: ''
     },
     {
-      en: ' '
+      en: ' ',
+      da: ''
     }
   ]
 }

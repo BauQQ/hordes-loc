@@ -1,17 +1,20 @@
 export default {
   name: {
     en: 'Name',
-    fr: 'Nom'
+    fr: 'Nom',
+    da: 'Navn'
   },
 
   level: {
     en: 'Level',
-    fr: 'Niveau'
+    fr: 'Niveau',
+    da: 'Level'
   },
 
   class: {
     en: 'Class',
-    fr: 'Classe'
+    fr: 'Classe',
+    da: 'Klasse'
   },
 
   faction: {
@@ -20,7 +23,8 @@ export default {
 
   rank: {
     en: 'Rank',
-    fr: 'Rang'
+    fr: 'Rang',
+    da: 'Rang'
   },
 
   rating: {
@@ -30,11 +34,13 @@ export default {
 
   medals: {
     en: 'Medals',
-    fr: 'Médailles'
+    fr: 'Médailles',
+    da: 'Medaljer'
   },
 
   perday: {
     en: 'per day',
-    fr: 'par jour'
+    fr: 'par jour',
+    da: 'per dag'
   }
 }

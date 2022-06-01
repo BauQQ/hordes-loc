@@ -10,7 +10,8 @@ export default [
       vi: 'Những chiếc lông này hấp thụ những giấc mơ và cơn ác mộng của những người ngủ gần nó. Những giấc mơ và ác mộng được lưu trữ và tái sử dụng dưới dạng phép thuật.',
       it: 'Queste piume assorbono i sogni e gli incubi di coloro che dormono vicino ad essa. I sogni e gli incubi sono immagazzinati e riutilizzati sotto forma di magia.',
       es: 'Estas plumas absorben los sueños y las pesadillas de aquellos que duerman cerca de ella. Los sueños y las pesadillas serán guardados y reusados en forma de magia.',
-      zh: '這些羽毛吸收了睡在它附近的人的夢境和噩夢。這些夢和噩夢以魔法的形式被儲存和重複使用。'
+      zh: '這些羽毛吸收了睡在它附近的人的夢境和噩夢。這些夢和噩夢以魔法的形式被儲存和重複使用。',
+      da: ''
     }
   },
 
@@ -25,7 +26,8 @@ export default [
       vi: 'Một sinh vật siêu nhiên ràng buộc với con búp bê này mang lại sức mạnh ma thuật cho người dùng.',
       it: 'Una creatura soprannaturale legata a questa bambola alimenta il potere magico disponibile per l\'utente.',
       es: 'Una criatura sobrenatural unida a este muñeco alimenta el poder mágico disponible al usuario.',
-      zh: '綁定在這個玩偶上的超自然生物為使用者提供魔法能量。'
+      zh: '綁定在這個玩偶上的超自然生物為使用者提供魔法能量。',
+      da: ''
     }
   },
 
@@ -40,7 +42,8 @@ export default [
       vi: 'Đây là một lọ thuốc phát ra ma thuật có nguồn gốc từ tự nhiên.',
       it: 'Questa è un recipiente che emana magia proveniente dalla natura.',
       es: 'Este es un recipiente que emana magia proveniente de la naturaleza.',
-      zh: '這是個從自然中散發出魔力的容器。'
+      zh: '這是個從自然中散發出魔力的容器。',
+      da: ''
     }
   },
 
@@ -55,7 +58,8 @@ export default [
       vi: 'Những hạt này được các linh mục thánh mang theo như một phương tiện để lưu trữ sức mạnh thần thánh và đếm phước lành của họ. Một số sức mạnh thần thánh vẫn nằm trong mỗi hạt.',
       it: 'Queste perle venivano portate dai santi sacerdoti come mezzo per conservare il potere divino e contare le loro benedizioni. Parte del potere divino risiede ancora all\'interno di ciascuna perla.',
       es: 'Estos rosarios fueron portados por sacerdotes benditos con el objetivo de guardar poder divino y contar sus bendiciones. Parte del poder divino sigue en cada rosario.',
-      zh: '這些珠子由聖職人員攜帶，作為他們儲存神力和計算祝福的手段。每顆珠子中還殘留著一些神力。'
+      zh: '這些珠子由聖職人員攜帶，作為他們儲存神力和計算祝福的手段。每顆珠子中還殘留著一些神力。',
+      da: ''
     }
   },
 
@@ -70,7 +74,8 @@ export default [
       vi: 'Khi việc đánh bại các kỵ sĩ thất bại trong một nhiệm vụ thiêng liêng, họ đổ sự sùng kính tâm linh vào một vật tổ cá nhân như thế này để hỗ trợ cho mặt tốt.',
       it: 'Quando i templari sconfitti falliscono un compito divino, riversano la devozione spirituale in un totem personale come questo per aiutare il lato del bene.',
       es: 'Cuando los templarios derrotados fallan un objetivo divino, sueltan devoción espiritual en forma de un tótem personal como este para ayudar al bien.',
-      zh: '當被擊敗的聖堂武士無法完成一項聖職時，他們會將精神獻身並注入這樣的私人圖騰中，以幫助善良的一方。'
+      zh: '當被擊敗的聖堂武士無法完成一項聖職時，他們會將精神獻身並注入這樣的私人圖騰中，以幫助善良的一方。',
+      da: ''
     }
   },
 
@@ -85,7 +90,8 @@ export default [
       pl: 'Jest to jeden z wielu magicznych świerszczy, które niegdyś były własnością cesarzy i imperiów Tiger\'s Teeth. Aby przeciwdziałać zabójstwom, magiczne świerszcze zwiększały nadnaturalną moc królewskiej rodziny, która je niosła.',
       vi: 'Đây là một trong nhiều vương miện ma thuật đã từng thuộc sở hữu của các hoàng đế và hoàng hậu của Tiger\'s Teeth. Để chống lại các vụ ám sát, vương miện ma thuật đã tăng cường sức mạnh siêu nhiên của hoàng gia mang chúng.',
       it: 'Questo è uno dei tanti grilli magici che un tempo erano di proprietà degli imperatori e delle imperatrici di Tiger\'s Teeth. Per difendersi dagli omicidi, i grilli magici aumentavano il potere soprannaturale della regalità che li portava.',
-      es: 'Este es uno de los muchos grillos mágicos que una vez fueron propiedad de los emperadores y emperatrices de Tiger\'s Teeth. Para cubrirse de asesinatos, los grillos mágicos mejoraron el poder sobrenatural de la realeza que los llevaba.'
+      es: 'Este es uno de los muchos grillos mágicos que una vez fueron propiedad de los emperadores y emperatrices de Tiger\'s Teeth. Para cubrirse de asesinatos, los grillos mágicos mejoraron el poder sobrenatural de la realeza que los llevaba.',
+      da: ''
     }
   },
 
@@ -99,7 +105,8 @@ export default [
       pl: 'To więzienie z nadprzyrodzonymi stworzeniami, które niechętnie się ze sobą wiążą. Generują pokaźną magiczną moc swoim nienaturalnym śmiechem.',
       vi: 'Đây là một nhà tù với những sinh vật siêu nhiên bất đắc dĩ bị ràng buộc với nhau. Chúng tạo ra sức mạnh ma thuật đáng kể với tiếng cười không tự nhiên của chúng.',
       it: 'Questa è una prigione con creature soprannaturali che sono involontariamente legate insieme. Generano un notevole potere magico con le loro risate innaturali.',
-      es: 'Esta es una prisión con criaturas sobrenaturales que están atadas involuntariamente. Generan un poder de sustancias mágicas con su risa antinatural.'
+      es: 'Esta es una prisión con criaturas sobrenaturales que están atadas involuntariamente. Generan un poder de sustancias mágicas con su risa antinatural.',
+      da: ''
     }
   },
 
@@ -113,7 +120,8 @@ export default [
       pl: 'Zbiór nadprzyrodzonych umysłów, które skupiają swoją magiczną moc i obdarzają nią użytkownika swojego totemu. Hive Mind wierzy, że wszystkie stworzenia muszą poddać się swojej mocy i próbuje przekonać użytkownika, aby do nich dołączył.',
       vi: 'Một tập thể của những bộ óc siêu nhiên tập trung sức mạnh ma thuật của họ và ban cho người sử dụng vật tổ của họ. Hive Mind tin rằng tất cả các sinh vật phải phục tùng sức mạnh của họ và cố gắng thuyết phục người dùng tham gia cùng họ.',
       it: 'Un collettivo di menti soprannaturali che focalizzano il loro potere magico e lo conferiscono all\'utente del loro totem. The Hive Mind crede che tutte le creature debbano sottomettersi al loro potere e cerca di convincere l\'utente ad unirsi a loro.',
-      es: 'Un colectivo de mentes sobrenaturales que centran su poder mágico y lo otorgan al portador de su tótem. El Hive Mind cree que todas las criaturas deben someterse a su poder e intentan convencer al usuario de que se unan a ellas.'
+      es: 'Un colectivo de mentes sobrenaturales que centran su poder mágico y lo otorgan al portador de su tótem. El Hive Mind cree que todas las criaturas deben someterse a su poder e intentan convencer al usuario de que se unan a ellas.',
+      da: ''
     }
   },
 
@@ -127,7 +135,8 @@ export default [
       pl: 'To jest avatar nadprzyrodzonego stworzenia. Niektórzy uczeni twierdzą, że Nganga\'s Serpent jest dany tym, którzy zostali wybrani i uznani za godnych wielkości; jednakże inni uczeni sugerują, że jest to kolejny sposób, w jaki bóstwa próbują kontrolować śmiertelników i nimi manipulować.',
       vi: 'Đây là biểu tượng của một sinh vật siêu nhiên. Một số học giả nói rằng Nganga\'s Serpent được trao cho những người được chọn và được coi là xứng đáng với sự vĩ đại; tuy nhiên, các học giả khác cho rằng đây là một phương tiện khác mà các vị thần cố gắng kiểm soát và thao túng người phàm trần.',
       it: 'Questo è un avatar di una creatura soprannaturale. Alcuni studiosi affermano che il serpente di Nganga è dato a coloro che sono scelti e considerati degni di grandezza; tuttavia, altri studiosi suggeriscono che questo è un altro mezzo con cui le divinità cercano di controllare e manipolare i mortali.',
-      es: 'Este es un avatar de una criatura sobrenatural. Algunos estudiosos dicen que Nganga\'s Serpent es dada a aquellos que son elegidos y son considerados dignos de grandeza; Sin embargo, otros estudiosos sugieren que esta es una forma por la cual las deidades intentan controlar y manipular a los mortales.'
+      es: 'Este es un avatar de una criatura sobrenatural. Algunos estudiosos dicen que Nganga\'s Serpent es dada a aquellos que son elegidos y son considerados dignos de grandeza; Sin embargo, otros estudiosos sugieren que esta es una forma por la cual las deidades intentan controlar y manipular a los mortales.',
+      da: ''
     }
   },
 
@@ -141,7 +150,8 @@ export default [
       pl: 'Mówi się, że te starożytne kości to małe fragmenty zapomnianego bóstwa potworów. Kości promieniują mocą poza wyobraźnią.',
       vi: 'Những chiếc xương cổ này được cho là những mảnh nhỏ của một vị thần quái vật bị lãng quên. Xương tỏa sức mạnh ngoài sức tưởng tượng.',
       it: 'Si dice che queste antiche ossa siano piccoli frammenti di una divinità mostruosa dimenticata. Le ossa irradiano potere oltre ogni immaginazione.',
-      es: 'Se dice que estos huesos antiguos son pequeños fragmentos de un monstruo olvidado. Los huesos irradian poder más allá de la imaginación.'
+      es: 'Se dice que estos huesos antiguos son pequeños fragmentos de un monstruo olvidado. Los huesos irradian poder más allá de la imaginación.',
+      da: ''
     }
   }
 

@@ -13,7 +13,8 @@ export default [
       nl: 'Deze buidel is gemaakt van een fijne stof. Buidels zoals deze zijn vaak eigendom van gewone mensen voor het dragen van hun bezittingen.',
       it: 'Questo zaino è stato fabbricato con un tessuto fragile. Zaini come questi spesso vengono utilizzati dalle persone comuni per trasportare i loro averi.',
       ro: 'Acest săculeț este făcut dintr-un material delicat. Astfel de săculeți sunt des folosiți de oameni simpli pentru a-și căra bunurile.',
-      zh: '這個袋子是用精巧的織法製作的，這種類型的袋子常常出現在平民的身邊以便於他們攜帶物品。'
+      zh: '這個袋子是用精巧的織法製作的，這種類型的袋子常常出現在平民的身邊以便於他們攜帶物品。',
+      da: ''
     }
   },
 
@@ -31,7 +32,8 @@ export default [
       nl: 'Deze rugzak is gehandhaafd van stevige stoffen om meer uitrusting te dragen dan een "Linen Pouch".',
       it: 'Questo zaino robusto è stato realizzato con un tessuto resistente per contenere più oggetti rispetto ad un "Linen Pouch".',
       ro: 'Acest sac aspru este creat din materiale robuste pentru a susține mai mult echipament decât "Linen Pouch".',
-      zh: '這個粗糙的背包是由堅韌的織物製作的以保存比麻布袋更多的物品。'
+      zh: '這個粗糙的背包是由堅韌的織物製作的以保存比麻布袋更多的物品。',
+      da: ''
     }
   },
 
@@ -49,7 +51,8 @@ export default [
       nl: 'Deze krachtige zak is gemaakt van monsterhuid en gunt een fatsoenlijke inventaris.',
       it: 'Questo zaino resistente è stato fabbricato con la pelle dei mostri e consente un inventario rispettabile.',
       ro: 'Acest sac robust este făcut din piele de monstru și permite posesia unui inventar respectabil.',
-      zh: '這個堅實的背包是由獸皮製作而成以保存大量物品。'
+      zh: '這個堅實的背包是由獸皮製作而成以保存大量物品。',
+      da: ''
     }
   },
 
@@ -66,7 +69,8 @@ export default [
       vi: 'Chiếc túi tốt này được chế tác từ vải Elvish đắt tiền và chứa nhiều hơn hầu hết các túi khác',
       nl: 'Deze fijne tas is gehandhaafd van dure tover-stoffen en heeft meer zakken dan de meeste andere tassen.',
       it: 'Questo zaino pregiato è stato realizzato con costosi tessuti elfici e contiene più tasche della maggior parte degli zaini.',
-      ro: 'Acest sac rezistent a fost creat din materialele scumpe ale Elfilor și are mai multe buzunare decât majoritatea celorlalți saci.'
+      ro: 'Acest sac rezistent a fost creat din materialele scumpe ale Elfilor și are mai multe buzunare decât majoritatea celorlalți saci.',
+      da: ''
     }
   },
 
@@ -83,7 +87,8 @@ export default [
       vi: 'Những chiếc túi như thế này là một món quà từ thiên nhiên cho các bộ tộc druid bí mật. Thật không may, quái vật đã vứt bỏ nhiều druid theo thời gian và đã đánh cắp những chiếc túi thiêng liêng này.',
       nl: 'Tassen zoals deze zijn cadeaus van de natuur aan geheime druïde samenlevingen. Jammer genoeg, monsters hebben vele druïdes opgeruimd na een tijdje en hebben deze heilige tassen gestolen.',
       it: 'Zaini come questi sono un dono della natura alle società segrete dei druidi. Sfortunatamente, i mostri con il passare del tempo hanno ucciso molti druidi e hanno rubato queste sacre sacche.',
-      ro: 'Astfel de saci sunt un cadou din partea naturii pentru societățile secrete de druizi. Din păcate, monștrii au scăpat de mulți druizi de-a lungul timpului și au furat acești saci sacrii.'
+      ro: 'Astfel de saci sunt un cadou din partea naturii pentru societățile secrete de druizi. Din păcate, monștrii au scăpat de mulți druizi de-a lungul timpului și au furat acești saci sacrii.',
+      da: ''
     }
   }
 

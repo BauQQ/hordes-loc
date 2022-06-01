@@ -12,7 +12,8 @@ export default [
       it: 'Questa calzatura è concepita principalmente per il comfort anziché per la corsa.',
       nl: 'Deze schoenen zijn vooral gemaakt voor comfort in plaats van rennen.',
       ro: 'Acest tip de încățăminte a fost mai degrabă creată pentru confort decât pentru alergare.',
-      zh: '這種鞋類主要是為了穿著舒適而非跑步。'
+      zh: '這種鞋類主要是為了穿著舒適而非跑步。',
+      da: ''
     }
   },
 
@@ -29,7 +30,8 @@ export default [
       it: 'Questi poggiapiedi sono avvolti in un materiale di fortuna per aumentare la stabilità della corsa.',
       nl: 'Deze schoenen zijn verpakt in een handgemaakt materiaal om stabiliteit tijdens het rennen te verhogen.',
       ro: 'Acești tălpici sunt împachetați într-un material improvizat pentru a crește stabilitatea la alergare.',
-      zh: '這些腳墊混合了應急材料以提升跑步穩定性。'
+      zh: '這些腳墊混合了應急材料以提升跑步穩定性。',
+      da: ''
     }
   },
 
@@ -46,7 +48,8 @@ export default [
       it: 'Le scarpe in pelle sono create con pregevole fattura per una durata prolungata in battaglia.',
       nl: 'Leren schoenen zijn gemaakt met een fijne vakmanschap voor gemiddelde gevecht uithouding.',
       ro: 'Acești pantofi din piele sunt creați cu măiestrie pentru o durabilitate moderată în luptă.',
-      zh: '皮革鞋子是由精細的手工藝製作而成以提升耐久度。'
+      zh: '皮革鞋子是由精細的手工藝製作而成以提升耐久度。',
+      da: ''
     }
   },
 
@@ -63,7 +66,8 @@ export default [
       it: 'Le ossa mostruose utilizzate nella creazione di calzature come questa sembrano aumentare la velocità di movimento, ma non è noto se il miglioramento sia attraverso la magia o la leggerezza del materiale.',
       nl: 'De monsterbotten die gebruikt waren in het maken van deze schoenen, zoals deze, blijken de snelheid te verbeteren, maar of de verbetering door magie komt of het gewicht van het materiaal is onbekend.',
       ro: 'Oasele de monstru folosite la crearea acestei încălțăminte par să sporească viteza de deplasare, dar fie că această intensificare a fost făcută prin magie sau prin lejeritatea materialului nu se știe.',
-      zh: '這個鞋子裡所使用的怪獸骨頭似乎能夠提升移動速度，但是這股魔法是從哪裡來的則不得而知。'
+      zh: '這個鞋子裡所使用的怪獸骨頭似乎能夠提升移動速度，但是這股魔法是從哪裡來的則不得而知。',
+      da: ''
     }
   },
 
@@ -80,7 +84,8 @@ export default [
       it: 'Questa calzatura è realizzata con cura con squame mostruose che sono allo stesso tempo leggere e robuste per la battaglia.',
       nl: 'Deze schoenen zijn nauwkeurig gemaakt met monsterschubben die zowel licht als stevig zijn voor een gevecht.',
       ro: 'Această încălțăminte a fost grijuliu creată cu solzi de monstru și este în același timp ușoară și robustă pentru bătălie.',
-      zh: '這種輕盈且堅韌的鞋是用怪獸的鱗片以精細的手藝製作而成。'
+      zh: '這種輕盈且堅韌的鞋是用怪獸的鱗片以精細的手藝製作而成。',
+      da: ''
     }
   },
 
@@ -97,7 +102,8 @@ export default [
       it: 'Scarpe incantate come questa spingono i piedi di chi la indossa con la magia dell\'ombra per aumentare la velocità.',
       nl: 'Betoverde schoenen zoals deze duwen de dragers voeten naar vergrootte snelheden met schaduwmagie.',
       ro: 'Acest tip de pantofi îmbunătățiți împing picioarele purtătorului cu ajutorul magiei umbrelor, pentru a mări viteza.',
-      zh: '穿戴著這種被附魔的鞋子會因為影子魔法使穿戴者的移動速度增加。'
+      zh: '穿戴著這種被附魔的鞋子會因為影子魔法使穿戴者的移動速度增加。',
+      da: ''
     }
   },
 
@@ -113,7 +119,8 @@ export default [
       vi: 'Những đôi giày này được chế tạo từ sắt và đã được sử dụng trong nhiều cuộc chiến',
       it: 'Questi stivali sono realizzati in robusto ferro e sono stati utilizzati in molte guerre.',
       nl: 'Deze laarzen zijn gehandhaafd van stevig ijzer and werden gebruikt in vele oorlogen.',
-      ro: 'Aceste cizme au fost create dintr-un metal ferm și au fost folosite în multe războaie.'
+      ro: 'Aceste cizme au fost create dintr-un metal ferm și au fost folosite în multe războaie.',
+      da: ''
     }
   },
 
@@ -129,7 +136,8 @@ export default [
       vi: 'Những đôi giày như thế này được khắc bằng cổ ngữ làm tăng tốc độ của người mang. Tuy nhiên, các học giả đang do dự về việc sử dụng các cổ ngữ này vì mục đích và bản chất thực sự của chúng không rõ ràng.',
       it: 'Calzature come questa sono incise con rune che aumentano la velocità di chi le indossa. Tuttavia, gli studiosi sono titubanti riguardo all\'uso di queste rune poiché il loro vero scopo e la loro natura non è chiara.',
       nl: 'Schoenen zoals deze zijn gefuseerd met ruïnes die de dragers snelheid vergroten. Maar geleerden zijn aarzelend over het gebruik van deze ruïnes sind hun ware doel en oorsprong onduidelijk is.',
-      ro: 'Acest tip de încățăminte este gravat cu rune ce măresc viteza purtătorului. Totuși, savanții sunt ezitanți cu privire la folosirea acestor rune din moment ce adevărata lor natură și scop sunt încă neclare.'
+      ro: 'Acest tip de încățăminte este gravat cu rune ce măresc viteza purtătorului. Totuși, savanții sunt ezitanți cu privire la folosirea acestor rune din moment ce adevărata lor natură și scop sunt încă neclare.',
+      da: ''
     }
   },
 
@@ -145,7 +153,8 @@ export default [
       vi: 'Phép thuật Elvish được hỗ trợ bởi các linh hồn gió để tạo ra Skyswift Boots. Mặc dù Elves rất gần gũi với thiên nhiên, tuy nhiên thậm chí họ còn biết rất ít về những linh hồn gió ẩn dật.',
       it: 'La magia elfica è assistita dagli spiriti del vento per creare Stivali Skyswift. Sebbene gli Elfi siano molto vicini alla natura, anche loro sanno poco degli spiriti del vento solitari.',
       nl: 'Elf magie is geholpen door windgeesten om de Skyswift Boots te maken. Hoewel Elfen zeer dicht bij de natuur zijn, weten ze weinig van de teruggetrokken windgeesten.',
-      ro: 'Magia elfilor este asistată de spiritele vântului pentru a crea "Skyswift Boots". Cu toate că elfii sunt foarte apropiați de natură, nici măcar ei nu știu prea multe despre singuraticele spirite ale vântului.'
+      ro: 'Magia elfilor este asistată de spiritele vântului pentru a crea "Skyswift Boots". Cu toate că elfii sunt foarte apropiați de natură, nici măcar ei nu știu prea multe despre singuraticele spirite ale vântului.',
+      da: ''
     }
   },
 
@@ -161,7 +170,8 @@ export default [
       vi: 'Những đôi giày này được rèn mà không cần nhiệt và với những chiếc búa phù phép để giữ các đặc tính bẩm sinh của kim loại đặc biệt. Kim loại hiếm này thường được tìm thấy ở vùng núi.',
       it: 'Questi stivali sono forgiati senza calore e con martelli incantati per mantenere le proprietà innate del metallo speciale. Questo raro metallo si trova più spesso in montagna.',
       nl: 'Deze laarzen zijn gesmeed zonder hitte en met betoverde hamers om de aangeboren krachten van dit speciale metaal te behouden. Dit zeldzame metaal is meestal gevonden in de bergen.',
-      ro: 'Aceste cizme sunt forjate fără căldură și cu ciocane fermecate pentru a păstra proprietățile ereditare ale metalului special. Acest metal rar este de obicei găsit în munți.'
+      ro: 'Aceste cizme sunt forjate fără căldură și cu ciocane fermecate pentru a păstra proprietățile ereditare ale metalului special. Acest metal rar este de obicei găsit în munți.',
+      da: ''
     }
   },
 
@@ -177,7 +187,8 @@ export default [
       vi: 'Những đôi giày này được tạo ra bởi các thợ thủ công quái vật với sự giúp đỡ của các linh hồn bầu trời. Một số phe quái vật có mối liên hệ chặt chẽ với tinh thần bầu trời và thiên nhiên; tuy nhiên, quái vật không thường xuyên nói về mối quan hệ này.',
       it: 'Questi stivali sono creati da artigiani mostruosi con l\'aiuto degli spiriti del cielo. Alcune fazioni di mostri hanno una stretta connessione con gli spiriti del cielo e la natura; tuttavia, i mostri non parlano spesso di questa relazione.',
       nl: 'Deze laarzen zijn gemaakt door monster ambachtslieden met hulp van lucht geesten. Sommige monster facties hebben een hechte band met lucht geesten en met de natuur, maar monsters praten niet vaak over deze band.',
-      ro: 'Aceste cizme sunt create de monștrii meseriași cu ajutorul spiritelor cerului. Câteva grupuri de monștrii au o conexiune apropiată cu aceste spirite și cu natura; însă, ei nu vorbesc prea des despre aceste relații.'
+      ro: 'Aceste cizme sunt create de monștrii meseriași cu ajutorul spiritelor cerului. Câteva grupuri de monștrii au o conexiune apropiată cu aceste spirite și cu natura; însă, ei nu vorbesc prea des despre aceste relații.',
+      da: ''
     }
   },
 
@@ -193,7 +204,8 @@ export default [
       vi: 'Những đôi giày này được đặt theo tên của một thánh tích huyền thoại nổi tiếng. Tên của những đôi giày này được cho là tấm lót chân của một vị thần nổi tiếng, nhưng dường như không ai biết câu chuyện bắt nguồn từ đâu.',
       it: 'Questi stivali prendono il nome da una famosa leggenda delle reliquie. L\'omonimo di questi stivali era presumibilmente la calzatura veloce di una divinità famosa, ma nessuno sembra sapere da dove provenga la storia.',
       nl: 'Deze schoenen zijn vernoemd naar een bekende legende van een relikwie. De naamgenoot van deze schoenen waren waarschijnlijk de snelle voetkleding van een bekende god, maar niemand blijkt te weten waar het verhaal vandaan komt.',
-      ro: 'Aceste cizme sunt numite după o relicvă faimoasă. Omonimul acestor cizme se presupune că a fost încălțămintea rapidă a unei zeiăți faimoase, dar nimeni nu pare să știe de unde provine mai exact legenda.'
+      ro: 'Aceste cizme sunt numite după o relicvă faimoasă. Omonimul acestor cizme se presupune că a fost încălțămintea rapidă a unei zeiăți faimoase, dar nimeni nu pare să știe de unde provine mai exact legenda.',
+      da: ''
     }
   },
 
@@ -209,7 +221,8 @@ export default [
       vi: 'Đôi giày này chế tạo từ các mảnh thiên thạch. Các thiên thạch đen được tìm thấy trong một thảm họa khủng khiếp nơi lửa rơi xuống từ bầu trời và phá hủy phần lớn cảnh quan.',
       it: 'Questa calzatura è composta da pezzi di meteorite. I meteoriti neri furono trovati durante una terribile catastrofe in cui il fuoco piovve dal cielo e distrusse gran parte del paesaggio.',
       nl: 'Deze voetkleding bestaat uit meteoriet onderdelen. Zwarte meteorieten werden gevonden tijdens een vreselijke catastrofe waarbij het vuur uit de hemel regende en veel van het landschap vernietigd werd.',
-      ro: 'Această încălțăminte este compusă din bucăți de meteorit. Meteoriți negrii au fost găsiți în timpul unei catastrofe teribile în care a început să plouă cu foc, ceea ce a distrus mult din peisaj.'
+      ro: 'Această încălțăminte este compusă din bucăți de meteorit. Meteoriți negrii au fost găsiți în timpul unei catastrofe teribile în care a început să plouă cu foc, ceea ce a distrus mult din peisaj.',
+      da: ''
     }
   }
 

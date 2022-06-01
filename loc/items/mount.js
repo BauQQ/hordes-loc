@@ -3,105 +3,120 @@ export default [
     name: {$$: 'Grubling'},
 
     description: {
-      en: ' '
+      en: ' ',
+      da: ''
     }
   },
   {
     name: {$$: 'Spider'},
 
     description: {
-      en: ' '
+      en: ' ',
+      da: ''
     }
   },
   {
     name: {$$: 'Leafspider'},
 
     description: {
-      en: ' '
+      en: ' ',
+      da: ''
     }
   },
   {
     name: {$$: 'Ruby Crawler'},
 
     description: {
-      en: ' '
+      en: ' ',
+      da: ''
     }
   },
   {
     name: {$$: 'Tick'},
 
     description: {
-      en: ' '
+      en: ' ',
+      da: ''
     }
   },
   {
     name: {$$: 'Shadowstrider'},
 
     description: {
-      en: ' '
+      en: ' ',
+      da: ''
     }
   },
   {
     name: {$$: 'Pebbles'},
 
     description: {
-      en: ' '
+      en: ' ',
+      da: ''
     }
   },
   {
     name: {$$: 'Ember Pebbles'},
 
     description: {
-      en: ' '
+      en: ' ',
+      da: ''
     }
   },
   {
     name: {$$: 'Ether Wyrm'},
 
     description: {
-      en: ' '
+      en: ' ',
+      da: ''
     }
   },
   {
     name: {$$: 'Shadow Wyrm'},
 
     description: {
-      en: ' '
+      en: ' ',
+      da: ''
     }
   },
   {
     name: {$$: 'Sand Scarab'},
 
     description: {
-      en: ' '
+      en: ' ',
+      da: ''
     }
   },
   {
     name: {$$: 'Golden Scarab'},
 
     description: {
-      en: ' '
+      en: ' ',
+      da: ''
     }
   },
   {
     name: {$$: 'Flaming Skullspider'},
 
     description: {
-      en: ' '
+      en: ' ',
+      da: ''
     }
   },
   {
     name: {$$: 'Blacksmith\'s Grub'},
 
     description: {
-      en: ' '
+      en: ' ',
+      da: ''
     }
   },
   {
     name: {$$: 'Snowball'},
 
     description: {
-      en: ' '
+      en: ' ',
+      da: ''
     }
   }
 ]

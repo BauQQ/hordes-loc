@@ -24,7 +24,8 @@ export default {
     sr: 'Pozivnica za party',
     it: 'Invito al party.',
     ja: 'Party招待',
-    cs: 'Pozvat do party'
+    cs: 'Pozvat do party',
+    da: 'Party invitation'
   },
 
   // DO NOT translate "Party"
@@ -48,7 +49,8 @@ export default {
     sr: 'Izbacivanje iz party-ja',
     it: 'Cacciare dal party',
     ja: 'Partyキック',
-    cs: 'Vyhodit z party'
+    cs: 'Vyhodit z party',
+    da: 'Party Udsmidning'
   },
 
   // DO NOT translate "Party"
@@ -72,7 +74,8 @@ export default {
     sr: 'Napusti party',
     it: 'Lasciare il party',
     ja: 'Partyを去る',
-    cs: 'Opustit party'
+    cs: 'Opustit party',
+    da: 'Forlad Party'
   },
 
   // DO NOT translate "Party"
@@ -96,7 +99,8 @@ export default {
     sr: 'Kreiraj party',
     it: 'Creare il party',
     ja: 'Party作成',
-    cs: 'Vytvořit Party'
+    cs: 'Vytvořit Party',
+    da: 'Opret Party'
   },
 
   // DO NOT translate "Party"
@@ -120,7 +124,8 @@ export default {
     sr: '$1 te je pozvao/la da se pridružiš party-ju.',
     it: '$1 ti ha inviato ad entrare nel suo party.',
     ja: '$1 が貴方をPartyに招待しました。',
-    cs: '$1 tě pozval do jejich Party'
+    cs: '$1 tě pozval do jejich Party',
+    da: '$1 har inviteret dig til deres Party.'
   },
 
   link: {
@@ -143,7 +148,8 @@ export default {
     it: 'Link di invito',
     ja: '招待リンク',
     cs: 'Odkaz k pozvánce',
-    zh: '邀請連結'
+    zh: '邀請連結',
+    da: 'Invitations link'
   },
 
   // DO NOT translate "Party"
@@ -167,7 +173,8 @@ export default {
     it: 'Invia questo link ad altri giocatori! Ciò consentirà loro di unirsi al tuo Party.',
     ja: 'このリンクを他のプレイヤーに送りましょう！Partyに招待する事が出来ます。',
     cs: 'Pošli tento odkaz ostatnm hráčům! Tento odkaz jim umožní se připojit do tvé Party',
-    zh: '發送這個連結給其他玩家！這將允許他們進入 Party。'
+    zh: '發送這個連結給其他玩家！這將允許他們進入 Party。',
+    da: 'Send dette link til andre spillere. Dette vil tillade dem at deltage i dit Party.'
   },
 
   copyLink: {
@@ -194,7 +201,8 @@ export default {
     it: 'Copia negli appunti',
     ja: 'クリップボードへコピー',
     cs: 'Zkopírovat do schránky',
-    zh: '複製到剪貼簿'
+    zh: '複製到剪貼簿',
+    da: 'Kopier til udklipsholderen'
   },
 
   summon: {
@@ -214,7 +222,8 @@ export default {
     ja: '召喚',
     ko: '소환',
     cs: 'Vyvolat',
-    zh: '召喚'
+    zh: '召喚',
+    da: 'Summon'
   },
 
   onSummon: {
@@ -234,7 +243,8 @@ export default {
     ja: '$1 が貴方を召喚しようとしています。',
     ko: '$1 이 당신을 자신이 위치한 장소로 소환하려 합니다.',
     cs: '$1 ti nabízí vyvolání do jejich lokace',
-    zh: '$1 召喚你至他的位置。'
+    zh: '$1 召喚你至他的位置。',
+    da: '$1 giver dig et summon til deres lokation.'
   },
 
   // Do not translate "Assistant".
@@ -255,7 +265,8 @@ export default {
     ja: 'Assistant へ昇格',
     ko: 'Assistant으로 승급',
     cs: 'Povýšit na Assistant',
-    zh: '升格為 Assistant'
+    zh: '升格為 Assistant',
+    da: 'Forfrem til Assistant'
   },
 
   // Do not translate "Leader".
@@ -276,7 +287,8 @@ export default {
     ja: 'Leader へ昇格',
     ko: 'Leader로 승급',
     cs: 'Povýšit na Leader',
-    zh: '升格為 Leader'
+    zh: '升格為 Leader',
+    da: 'Forfrem til Leader'
   },
 
   // Do not translate"Assistant".
@@ -297,7 +309,8 @@ export default {
     ja: 'Assistant へ降格',
     ko: 'Assistant 강등',
     cs: 'Degradovat Assistant',
-    zh: '降格為 Assistant'
+    zh: '降格為 Assistant',
+    da: 'Degradere Assistant'
   },
 
   startQueue: {
@@ -317,7 +330,8 @@ export default {
     ja: 'キュー',
     ko: '매칭',
     cs: 'Fronta',
-    zh: '列隊'
+    zh: '列隊',
+    da: 'Kø'
   },
 
   stopQueue: {
@@ -337,12 +351,14 @@ export default {
     ja: 'キューを去る',
     ko: '매칭 중단',
     cs: 'Opustit frontu',
-    zh: '離開列隊'
+    zh: '離開列隊',
+    da: 'Forlad Kø'
   },
 
   noParty: {
     en: 'No Party',
-    fr: 'Aucune Party'
+    fr: 'Aucune Party',
+    da: 'Intet Party'
   },
 
   name: {
@@ -351,6 +367,7 @@ export default {
 
   members: {
     en: 'members',
-    fr: 'membres'
+    fr: 'membres',
+    da: 'medlemmer'
   }
 }

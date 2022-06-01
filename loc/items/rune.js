@@ -12,7 +12,8 @@ export default [
       es: 'Este material plano se encuentra comúnmente en minas; los monstruos a menudo extraen a Lucid para apoyar sus economías.',
       pt: 'Este material plano geralmente é encontrado em minas; monstros frequentemente procuram o Lucid para sustentar suas economias.',
       nl: 'Dit platte materiaal wordt regelmatig gevonden in mijnen, monster mijnen regelmatig op zoek naar Lucid om hun economie te ondersteunen.',
-      zh: '這種扁平材料在礦山中很常見；怪物經常會開採Lucid以支撐他們的經濟。'
+      zh: '這種扁平材料在礦山中很常見；怪物經常會開採Lucid以支撐他們的經濟。',
+      da: ''
     }
   },
 
@@ -29,7 +30,8 @@ export default [
       es: 'Las curvas de Melant dan la apariencia de escritura o símbolos, pero los herreros creen que estas formaciones naturales revelan una poderosa estructura interna.',
       pt: 'As curvas de Melant dão a aparência de escrita ou símbolos, mas os ferreiros acreditam que essas formações naturais revelam uma poderosa estrutura interna.',
       nl: 'De bochten op de Melant geven het uiterlijk van schrift of symbolen, maar hoefsmeden geloven dat deze natuurlijke formaties de kracht van het interne structuur onthullen.',
-      zh: '在Melant上的凹凸給予一種文字或符號的外觀，但鐵匠相信這些天然形成的材料反映出了強大的永恆結構。'
+      zh: '在Melant上的凹凸給予一種文字或符號的外觀，但鐵匠相信這些天然形成的材料反映出了強大的永恆結構。',
+      da: ''
     }
   },
 
@@ -46,7 +48,8 @@ export default [
       es: 'Este útil material proviene de un gran volcán y su región circundante. El Turim fue solía ser intercambiado con frecuencia entre caravanas.',
       pt: 'Este material útil se origina de um grande vulcão e da região circundante. Os turim costumavam ser trocados com frequência entre caravanas.',
       nl: 'Dit nuttige materiaal ontstond van een grote vulkaan en de omringende regio. Turim werden ooit regelmatig verhandeld tussen karavanen.',
-      zh: '這個實用的材料來自於大火山與周遭的地區，Turim常常會在商隊之中交易。'
+      zh: '這個實用的材料來自於大火山與周遭的地區，Turim常常會在商隊之中交易。',
+      da: ''
     }
   },
 
@@ -63,7 +66,8 @@ export default [
       es: 'Recientemente se descubrió que este material robusto era útil para mejoras cuando los herreros comenzaron a experimentar con "Fundo sin valor". Desde entonces, Fundo ha sido considerado un recurso valioso.',
       pt: 'Recentemente, descobriu-se que este material robusto era útil para atualizações quando os ferreiros começaram a fazer experiências com "fundo sem valor". Desde então, o Fundo tem sido considerado um recurso valioso.',
       nl: 'Dit robuuste materiaal werd pas ontdekt nuttig te zijn voor upgrades toen hoefsmeden experimenteerde met "worthless Fundo". Sinds die tijd werden Fundo gezien als een kostbaar materiaal.',
-      zh: '這個粗糙的材料在最近被鐵匠發現能夠使用"沒價值的Fundo"來進行升級。從那時候開始，Fundo一直被當作是個有價值的資源。'
+      zh: '這個粗糙的材料在最近被鐵匠發現能夠使用"沒價值的Fundo"來進行升級。從那時候開始，Fundo一直被當作是個有價值的資源。',
+      da: ''
     }
   },
 
@@ -80,7 +84,8 @@ export default [
       es: 'Los Amari a menudo se dan como regalos de reinos en el extranjero. Los estudiosos dicen que el Amari se descubrió por primera vez cuando una raza de criaturas marinas hizo el primer contacto con varios reinos terrestres y trajeron Amari del fondo del mar.',
       pt: 'Os Amari costumam ser dados como presentes de reinos estrangeiros. Estudiosos dizem que Amari foi descoberto pela primeira vez quando uma raça de criaturas marinhas fez contato pela primeira vez com vários reinos terrestres e trouxe Amari do fundo do mar.',
       nl: 'Amari worden regelmatig gegeven als cadeaus van overzeese koninkrijken. Geleerden zeggen dat Amari eerst ondekt werden toen een ras van zeewezens contact maakten met meerdere land koninkrijken en brachten de Amari van de zeebodem.',
-      zh: 'Amari通常會被海外的王國當作禮物。學者說在Amari第一次被發現時是由海中生物在競賽時與地上的王國接觸並且向他們購買從海床來的Amari。'
+      zh: 'Amari通常會被海外的王國當作禮物。學者說在Amari第一次被發現時是由海中生物在競賽時與地上的王國接觸並且向他們購買從海床來的Amari。',
+      da: ''
     }
   },
 
@@ -97,7 +102,8 @@ export default [
       es: 'A menudo confundido con oro, este material alguna vez se pensó que era del mismo material que las escamas de dragón. Muchas decoraciones y armas antiguas están adornadas con Purum.',
       pt: 'Muitas vezes confundido com ouro, este material já foi considerado o mesmo material das escamas de dragão. Muitas decorações e armas antigas são adornadas com Purum.',
       nl: 'Vaak vergist voor goud, over dit materiaal werd ooit gedacht dat het hetzelfde materiaal was als drakenschubben. Vele eeuwenoude decoraties en wapens werden geborduurd met Purum.',
-      zh: '常常被搞混成黃金，這個材料曾經被認為是龍的鱗片。許多古代的裝飾品與武器會鑲嵌著Purum。'
+      zh: '常常被搞混成黃金，這個材料曾經被認為是龍的鱗片。許多古代的裝飾品與武器會鑲嵌著Purum。',
+      da: ''
     }
   },
 
@@ -113,7 +119,8 @@ export default [
       it: 'I Royals sono spesso posseduti e raccolti da re e regine per essere usati come regali cerimoniali durante i matrimoni combinati.',
       es: 'A menudo, los Royals son apropiados y coleccionados por reyes y reinas para ser utilizados como regalos ceremoniales durante matrimonios concertados.',
       pt: 'Royals costumam ser propriedade e recolhidos por reis e rainhas para serem usados como presentes cerimoniais durante casamentos arranjados.',
-      nl: 'Royal is vaak in bezit en wordt verzameld door koning en koninginnen om gebruikt te worden als ceremoniële cadeaus tijden geregelde huwelijken.'
+      nl: 'Royal is vaak in bezit en wordt verzameld door koning en koninginnen om gebruikt te worden als ceremoniële cadeaus tijden geregelde huwelijken.',
+      da: ''
     }
   },
 
@@ -129,7 +136,8 @@ export default [
       it: 'Queste formazioni si verificano naturalmente molto spesso vicino a Yggdrasil, l\'albero del mondo. La bellezza e la rarità del potere di Tara li rendono ugualmente adatti sia per i cimeli di gioielli che per gli aggiornamenti degli oggetti.',
       es: 'Estas formaciones ocurren naturalmente con mayor frecuencia cerca de Yggdrasil, el Árbol del Mundo. La belleza y la rareza del poder de Tara los hacen igualmente adecuados para reliquias de joyas o mejoras de items.',
       pt: 'Essas formações ocorrem naturalmente com mais frequência perto de Yggdrasil, a Árvore do Mundo. A beleza e a raridade do poder de Tara os tornam igualmente adequados para relíquias de joias ou atualizações de itens.',
-      nl: 'Deze formaties komen natuurlijk het meest voor bij Yggdrasil, de World Tree. De schoonheid en kracht zeldzaamheid van Tara zorgen ervoor dat ze zowel geschikt zijn voor juwelen als upgrades.'
+      nl: 'Deze formaties komen natuurlijk het meest voor bij Yggdrasil, de World Tree. De schoonheid en kracht zeldzaamheid van Tara zorgen ervoor dat ze zowel geschikt zijn voor juwelen als upgrades.',
+      da: ''
     }
   },
 
@@ -145,7 +153,8 @@ export default [
       it: 'Una volta scoperti i metodi segreti per potenziare l\'equipaggiamento usando il potere del Gloom, quei metodi furono presto venduti a un regno opposto come uno dei più grandi tradimenti nella storia dei regni.',
       es: 'Una vez que se descubrieron los métodos secretos para mejorar el equipo utilizando el poder de Gloom, esos métodos se vendieron en breve a un reino contrario como una de las mayores traiciones en la historia de los reinos.',
       pt: 'Uma vez que os métodos secretos de aumentar o equipamento usando o poder das Trevas foram descobertos, esses métodos foram vendidos em breve a um reino oposto como uma das maiores traições da história dos reinos.',
-      nl: 'Toen het geheim achter het gebruiken van de kracht van Gloom ontdekt werd, waren de methodes snel verkocht aan een tegenstaand koninkrijk als een van de grootste verraden in de geschiedenis van de rijken.'
+      nl: 'Toen het geheim achter het gebruiken van de kracht van Gloom ontdekt werd, waren de methodes snel verkocht aan een tegenstaand koninkrijk als een van de grootste verraden in de geschiedenis van de rijken.',
+      da: ''
     }
   },
 
@@ -161,7 +170,8 @@ export default [
       it: 'Le insolite proprietà cristalline del Plurae lo rendono un materiale eccezionale. Sebbene il Plurae sia stata riscoperta solo di recente nelle profondità dimenticate del mondo, le applicazioni del Plurae sono già state sostanziali nel invertire le sorti della guerra.',
       es: 'Propiedades cristalinas inusuales del Plurae lo convierten en un material excepcional. Aunque el Plurae fue redescubierto recientemente en las profundidades olvidadas del mundo, el uso del Plurae ya han sido importantes para cambiar el rumbo de la guerra.',
       pt: 'Propriedades cristalinas incomuns em Plurae tornam-no um material excepcional. Embora o Plurae tenha sido redescoberto apenas recentemente nas profundezas esquecidas do mundo, as aplicações do Plurae já foram substanciais para virar a maré da guerra.',
-      nl: 'Ongewone kristallijn eigenschappen in Plurae maken het een uitzonderlijk materiaal. Hoewel Plurae slecht recent herontdekt werden in de vergeten dieptes van de wereld, zijn de toepassingen ervan als substantieel geweest om het tij van oorlog te keren.'
+      nl: 'Ongewone kristallijn eigenschappen in Plurae maken het een uitzonderlijk materiaal. Hoewel Plurae slecht recent herontdekt werden in de vergeten dieptes van de wereld, zijn de toepassingen ervan als substantieel geweest om het tij van oorlog te keren.',
+      da: ''
     }
   },
 
@@ -177,7 +187,8 @@ export default [
       it: 'Sebbene gli Aeter una volta fossero considerati regali dagli dei alle regine e ai re del passato, storie scritte affermano che l\'Aeter fu trovato all\'interno di meteoriti neri.',
       es: 'Si bien las reinas y reyes del pasado consideraron el Aeter como regalos de los dioses, las historias escritas afirman que el Aeter se encontró dentro de meteoritos negros.',
       pt: 'Embora Aeter já tenha sido considerado um presente dos deuses por rainhas e reis do passado, histórias escritas afirmam que Aeter foi encontrado dentro de meteoritos negros.',
-      nl: 'Hoewel Aether ooit gezien werd als cadeaus van de goden door koning en koninginnen van het verleden, geschreven geschiedenis beweert dat Aether gevonden werden in zwarte meteorieten.'
+      nl: 'Hoewel Aether ooit gezien werd als cadeaus van de goden door koning en koninginnen van het verleden, geschreven geschiedenis beweert dat Aether gevonden werden in zwarte meteorieten.',
+      da: ''
     }
   }
 ]

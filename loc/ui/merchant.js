@@ -20,13 +20,14 @@ export default {
     it: 'Cerca',
     tr: 'Ara',
     ja: '探す',
-    cs: 'Hledat'
-  },
+    cs: 'Hledat',
+    da: 'Søg'
+},
 
   // Commented translations need to be edited. "My items only" changed to "My Items"
   filtermine: {
     en: 'My Items',
-    fr: 'Mes objets'
+    fr: 'Mes objets',
     // el: 'Μόνο τα αντικείμενά μου',
     // nl: 'Alleen mijn voorwerpen',
     // de: 'Nur meine Items',
@@ -44,13 +45,14 @@ export default {
     // it: 'Solo i miei oggetti',
     // tr: 'Sadece eşyalarım',
     // ja: '自分のアイテムのみ',
-    // cs: 'Pouze mé předměty'
-  },
+    // cs: 'Pouze mé předměty',
+    da: 'Mine ting'
+},
 
   // Commented translations need to edited. "Buy Item" changed to "Buy"
   buy: {
     en: 'Buy',
-    fr: 'Acheter'
+    fr: 'Acheter',
     // el: 'Αγορά αντικειμένου',
     // nl: 'Voorwerp Kopen',
     // de: 'Item kaufen',
@@ -68,8 +70,9 @@ export default {
     // sr: 'Купи предмет',
     // tr: 'Eşya Satın Al',
     // ja: 'アイテムを購入',
-    // cs: 'Koupit Předmět'
-  },
+    // cs: 'Koupit Předmět',
+    da: 'Køb'
+},
 
   post: {
     en: 'Post Item',
@@ -91,8 +94,9 @@ export default {
     it: 'Pubblica oggetto',
     ja: 'アイテムを出品',
     cs: 'Zveřejnit Předmět',
-    zh: '上架物品'
-  },
+    zh: '上架物品',
+    da: 'Tilføj vare'
+},
 
   delist: {
     en: 'Delist Item',
@@ -114,8 +118,9 @@ export default {
     tr: 'Eşyayı geri al',
     ja: '出品を取り消す',
     cs: 'Odstranit Předmět',
-    zh: '撤消物品'
-  },
+    zh: '撤消物品',
+    da: 'Fjern vare'
+},
 
   price: {
     en: 'Price',
@@ -137,8 +142,9 @@ export default {
     it: 'Prezzo',
     tr: 'Tutar',
     ja: '価格',
-    cs: 'Cena'
-  },
+    cs: 'Cena',
+    da: 'Pris'
+},
 
   fee: {
     en: 'Fee',
@@ -160,8 +166,9 @@ export default {
     it: 'Tassa',
     tr: 'Ücret',
     ja: '手数料',
-    cs: 'Poplatek'
-  },
+    cs: 'Poplatek',
+    da: 'Gebyr'
+},
 
   dragitem: {
     en: 'Shift-right-click or drag item into slot',
@@ -183,8 +190,9 @@ export default {
     tr: 'Eşyayı yuvaya sürükle',
     ja: 'アイテムをスロットにドラッグして下さい',
     cs: 'Přetáhněte předmět do slotu',
-    zh: 'Shift右鍵 或 拖曳物品至此'
-  },
+    zh: 'Shift右鍵 或 拖曳物品至此',
+    da: 'Shift-højreklik eller træk varen over.'
+},
 
   auctionpost: {
     en: 'You have posted $1 for sale',
@@ -206,8 +214,9 @@ export default {
     it: 'Hai pubblicato $1 in vendita',
     ja: '$1を出品しました。',
     cs: 'Zveřejnil jsi $1 k prodeji',
-    zh: '你上架了 $1。'
-  },
+    zh: '你上架了 $1。',
+    da: 'Du har tilføjet $1 til auktion'
+},
 
   // Do not translate "Stash".
   auctioncancel: {
@@ -230,8 +239,9 @@ export default {
     tr: 'Eşya listeden çıkarıldı ve Stashe gönderildi',
     ja: '出品を取り消しStashへ送りました。',
     cs: 'Odstraněný předmět byla odeslána do Stash',
-    zh: '撤消物品並存至Stash。'
-  },
+    zh: '撤消物品並存至Stash。',
+    da: 'Vare er fjernet og sendt til kisten'
+},
 
   // Do not translate "Stash".
   auctionbuy: {
@@ -254,8 +264,9 @@ export default {
     tr: 'Eşya $1 paraya satın alındı ve Stashe gönderildi',
     ja: '$1を購入しStashへ送りました。',
     cs: 'Předmět byl zakoupen za $1 a odeslán do Stash',
-    zh: '你已購買$1並存入Stash。'
-  },
+    zh: '你已購買$1並存入Stash。',
+    da: 'Vare købt for $1 og sendt til din kisten'
+},
 
   sell: {
     en: 'You have sold $1 for $2',
@@ -277,52 +288,62 @@ export default {
     tr: '$1 eşyasını $2 fiyatından sattın',
     ja: '$1を$2で売却しました。',
     cs: 'Prodal jste $1 za $2',
-    zh: '你賣了$1獲得$2'
-  },
+    zh: '你賣了$1獲得$2',
+    da: 'Du har solgt $1 for $2'
+},
 
   itemSearch: {
     en: 'Search for item',
-    fr: 'Chercher un objet'
-  },
+    fr: 'Chercher un objet',
+    da: 'Søg efter vare'
+},
 
   results: {
     en: 'Results',
-    fr: 'Résultats'
-  },
+    fr: 'Résultats',
+    da: 'Resultat'
+},
 
   owner: {
     en: 'Owner',
-    fr: 'Propriétaire'
-  },
+    fr: 'Propriétaire',
+    da: 'Ejer'
+},
 
   time: {
     en: 'Time',
-    fr: 'Temps'
-  },
+    fr: 'Temps',
+    da: 'Tid'
+},
 
   perUnit: {
     en: 'Per Unit',
-    fr: 'Par unité'
-  },
+    fr: 'Par unité',
+    da: 'Per enhed'
+},
 
   total: {
-    en: 'Total'
-  },
+    en: 'Total',
+    da: 'Totalt'
+},
 
   previous: {
     en: 'Prev',
-    fr: 'Préc'
-  },
+    fr: 'Préc',
+    da: 'Forrig'
+},
 
   next: {
     en: 'Next',
-    fr: 'Suivant'
-  },
+    fr: 'Suivant',
+    da: 'Næste'
+},
 
   setPrice: {
     en: 'Set price',
-    fr: 'Fixer un prix'
-  },
+    fr: 'Fixer un prix',
+    da: 'Sæt pris'
+},
 
   // Purchase confirmation message for merchant window
   // buyitem[0] itemName buyitem[1] gold buyitem[2]
@@ -330,11 +351,13 @@ export default {
   buyItem: [
     {
       en: 'Buy',
-      fr: 'Acheter'
+      fr: 'Acheter',
+      da: 'Køb'
     },
     {
       en: 'for',
-      fr: 'pour'
+      fr: 'pour',
+      da: 'for '
     },
     {
       en: '?'

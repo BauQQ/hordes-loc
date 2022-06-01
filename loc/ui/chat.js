@@ -20,7 +20,8 @@ export default {
     sr: 'Шапући',
     it: 'Sussurro',
     ko: '귓말',
-    ja: 'ひそひそ話'
+    ja: 'ひそひそ話',
+    da: 'Hvisk'
   },
 
   types: [
@@ -43,7 +44,8 @@ export default {
       sr: 'EXP Добитак',
       it: 'Guadagno di Exp',
       ko: '경험치',
-      ja: 'Exp 獲得'
+      ja: 'Exp 獲得',
+      da: 'Exp Optjening'
     },
     {
       en: 'Target Change',
@@ -64,7 +66,8 @@ export default {
       it: 'Cambio di Target',
       tr: 'Hedef Değişimi',
       ko: '목표 변경',
-      ja: 'ターゲット変更'
+      ja: 'ターゲット変更',
+      da: 'Target Change'
     },
     {
       en: 'Cast',
@@ -85,7 +88,8 @@ export default {
       it: 'Invocare',
       tr: 'Büyü',
       ko: '발동하다',
-      ja: 'キャスト'
+      ja: 'キャスト',
+      da: 'Kast'
     },
     {
       en: 'Damage',
@@ -106,7 +110,8 @@ export default {
       sr: 'Штета',
       it: 'Danno',
       ko: '피해량',
-      ja: 'ダメージ'
+      ja: 'ダメージ',
+      da: 'Skade'
     },
     {
       en: 'Heal',
@@ -127,7 +132,8 @@ export default {
       sr: 'Оздравити',
       it: 'Cura',
       ko: '치유',
-      ja: 'ヒール'
+      ja: 'ヒール',
+      da: 'Helbred'
     },
     {
       en: 'Death',
@@ -148,7 +154,8 @@ export default {
       sr: 'Смрт',
       it: 'Morte',
       ko: '사망',
-      ja: '死亡'
+      ja: '死亡',
+      da: 'Død'
     },
     {
       en: 'Level Up',
@@ -169,7 +176,8 @@ export default {
       it: 'Nuovo Livello',
       tr: 'Seviye Atlama',
       ko: '레벨 업',
-      ja: 'レベルアップ'
+      ja: 'レベルアップ',
+      da: 'Level Op'
     },
     {
       en: 'Items',
@@ -190,7 +198,8 @@ export default {
       it: 'Oggetti',
       tr: 'Eşyalar',
       ko: '아이템',
-      ja: 'アイテム'
+      ja: 'アイテム',
+      da: 'Items'
     },
     {
       en: 'Auction',
@@ -211,7 +220,8 @@ export default {
       sr: 'Аукција',
       it: 'Vendita all \'asta',
       tr: 'Açık Arttırma',
-      ja: '競売'
+      ja: '競売',
+      da: 'Auktion'
     },
     {
       en: 'Pick Gold',
@@ -232,7 +242,8 @@ export default {
       it: 'Colleziona l\'oro',
       tr: 'Altını Topla',
       ko: '골드를 줍기',
-      ja: 'ゴールド獲得'
+      ja: 'ゴールド獲得',
+      da: 'Samle Guld'
     },
     {
       en: 'Spent Gold',
@@ -253,7 +264,8 @@ export default {
       it: 'Spendi l\'oro',
       tr: 'Altın Harca',
       ko: '골드를 쓰다',
-      ja: 'ゴールド支払'
+      ja: 'ゴールド支払',
+      da: 'Brug Guld'
     },
     {
       en: 'Fame Gain',
@@ -274,7 +286,8 @@ export default {
       sr: 'Добитак славе',
       it: 'Guadagno della Fama',
       ko: '명성을 얻다',
-      ja: '名声獲得'
+      ja: '名声獲得',
+      da: 'Fame Gain'
     }
   ]
 }

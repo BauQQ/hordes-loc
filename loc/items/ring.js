@@ -12,7 +12,8 @@ export default [
       ro: 'Acest cerc bizar permite ca o mică parte din esența vitală a purtătorului să fie stocată.',
       pt: 'Esta faixa estranha permite que uma pequena parte da essência da vida do usuário seja armazenada.',
       nl: 'Deze vreemde polsband zorgt ervoor dat een klein gedeelte van de drager z’n levensessentie opgeslagen kan worden.',
-      zh: '這個奇特的戒指可以讓佩戴者的一小部分生命精華被儲存起來。'
+      zh: '這個奇特的戒指可以讓佩戴者的一小部分生命精華被儲存起來。',
+      da: ''
     }
   },
 
@@ -29,7 +30,8 @@ export default [
       ro: 'Acest inel este creat dintr-un lemn special, dur ca și fierul. Ironbark este deseori utilizat ca o alternativă a metalului.',
       pt: 'Anel feito de uma madeira especial, tão resistente quanto o ferro. Ironbark geralmente é utilizado como alternativa ao metal',
       nl: 'Deze ring is gemaakt van een speciale hout dat zo stevig is als ijzer. Ironbark wordt vaak gebruikt als een alternatief voor metaal.',
-      zh: '這個戒指是由硬如鐵的木頭製作而成。鐵桉木經常會被視為金屬的替代品。'
+      zh: '這個戒指是由硬如鐵的木頭製作而成。鐵桉木經常會被視為金屬的替代品。',
+      da: ''
     }
   },
 
@@ -46,7 +48,8 @@ export default [
       ro: 'Două regate ce au fost unite printr-o căsătorie regală au stabilit ca armatele lor să poarte aceste inele ca pe un simbol al națiunilor noi aliate.',
       pt: 'Dois reinos que foram unidos por um casamento real, tiveram seus exércitos utilizando estes anéis como símbolo das nações recém-aliadas.',
       nl: 'Twee koninkrijken die geallieerd werden door een koninklijk huwelijk lieten hun legers deze ringen dragen als een symbool voor het net gevormde bondgenootschap.',
-      zh: '參加皇室婚禮的兩個王國讓他們的軍隊配戴著這些戒指作為新盟國的象徵。'
+      zh: '參加皇室婚禮的兩個王國讓他們的軍隊配戴著這些戒指作為新盟國的象徵。',
+      da: ''
     }
   },
 
@@ -63,7 +66,8 @@ export default [
       ro: 'Acest inel este făcut din rămășițele oaselor unui monstru. Oasele monștrilor pot fi folosite ca pe un material robust atunci când nu există alte surse disponibile.',
       pt: 'Anel feito de ossos de monstro. Os ossos de monstro podem ser ser um material resistente, quando nenhum outro recurso está disponível',
       nl: 'Deze ring is gemaakt van de botten van een monster schil. Monster botten kunnen gebruikt worden als een stevig materiaal wanneer er geen andere materialen beschikbaar zijn.',
-      zh: '這個戒指是由怪物的骨頭軀殼製作而成，當沒有其他材料的時候怪物骨頭可以被用來當作堅韌的素材。'
+      zh: '這個戒指是由怪物的骨頭軀殼製作而成，當沒有其他材料的時候怪物骨頭可以被用來當作堅韌的素材。',
+      da: ''
     }
   },
 
@@ -80,7 +84,8 @@ export default [
       ro: 'Inelele sunt deseori pasate din generație în generație în tradiția Elfilor.',
       pt: 'Os anéis são frequentemente passados de geração em geração na tradição élfica',
       nl: 'Ringen worden vaak geërfd van de ene generatie tot de volgende volgens elfen traditie.',
-      zh: '在精靈的傳統中，戒指經常被代代相傳。'
+      zh: '在精靈的傳統中，戒指經常被代代相傳。',
+      da: ''
     }
   },
 
@@ -96,7 +101,8 @@ export default [
       es: 'Este anillo tiene pequeñas runas talladas en la banda interior. Algunos historiadores creen que estos anillos fueron el último esfuerzo de un reino perdido para fortalecer a su población de la enfermedad.',
       ro: 'Acest inel are rune micuțe gravate în interiorul cercului. Unii istorici cred că aceste inele au fost ultimul efort al unui regat pierdut de a-și întări populația în potriva bolilor.',
       pt: 'Este anel possui pequenas runas esculpidas na parte de dentro. Alguns historiadores acreditam que esses anéis foram o último esforço de um reino perdido para fortalecer sua população contra doenças.',
-      nl: 'Deze ring heeft kleine runen gesneden op de binnenband. Sommige historici geloven dat deze ringen een laatste poging waren van een verloren koninkrijk om zijn bevolking te beschermen van ziekte.'
+      nl: 'Deze ring heeft kleine runen gesneden op de binnenband. Sommige historici geloven dat deze ringen een laatste poging waren van een verloren koninkrijk om zijn bevolking te beschermen van ziekte.',
+      da: ''
     }
   },
 
@@ -112,7 +118,8 @@ export default [
       es: 'Los Arcane Rings son los experimentos mágicos de los magos intermedios. Algunos anillos están diseñados y encantados para mejorar sustancialmente las habilidades de lanzamiento de magia.',
       ro: 'Arcane Rings sunt experimentele magice ale magicienilor intermediari. Unele inele sunt fabricate și fermecate pentru a spori substanțial abilitățile de a folosi vrăji.',
       pt: 'Anéis arcanos são experimentos mágicos de magos. Alguns anéis são criados e encantados para aumentar substancialmente as habilidades de lançamento de magia.',
-      nl: 'Arcane rings zijn de magische experimenten van middelmatige magiërs. Sommige ringen zijn gemaakt en betoverd om de magie oproeping vaardigheden substantieel te verbeteren.'
+      nl: 'Arcane rings zijn de magische experimenten van middelmatige magiërs. Sommige ringen zijn gemaakt en betoverd om de magie oproeping vaardigheden substantieel te verbeteren.',
+      da: ''
     }
   },
 
@@ -128,7 +135,8 @@ export default [
       es: 'Estos anillos pertenecieron una vez al "Culto de las arañas esmeralda", una banda de bandidos que fueron de los primeros en montar arañas.',
       ro: 'Aceste inele au aparținut cândva "Cultului păianjenilor de smarald", o bandă de tâlhari care au fost printre primii ce au călărit vreodată păianjeni.',
       pt: 'Esses anéis pertenceram ao “Culto das Aranhas Esmeraldas”, uma gangue de bandidos que estavam entre os primeiros a domar as aranhas.',
-      nl: 'Deze ringen waren ooit eigendom van de "Cult of the Emerald Spiders", een bende van bandieten die een van de eerste waren die spinnen bereden.'
+      nl: 'Deze ringen waren ooit eigendom van de "Cult of the Emerald Spiders", een bende van bandieten die een van de eerste waren die spinnen bereden.',
+      da: ''
     }
   },
 
@@ -144,7 +152,8 @@ export default [
       es: 'Los anillos infernales son regalos de criaturas diabólicas. Atraen al usuario a desear más poder. Este deseo a menudo es seguido por ofertas desacertadas de más demonios.',
       ro: 'Infernal Rings sunt cadouri de la creaturi diavolești. Ele ispitesc purtătorul spre a-și dori mai multă putere. Această dorință este deseori urmată de oferte necugetate a mai multor demoni.',
       pt: 'Os anéis infernais são presentes de criaturas diabólicas. Eles induzem o usuário a desejar mais poder. Este desejo é freqüentemente seguido por ofertas imprudentes de mais demônios.',
-      nl: 'Infernal rings zijn cadeaus van duivelachtige wezens. Zij verlijden de drager tot het verlangen van meer macht. Dit verlangen wordt vaak vervolgd door onverstandige aanbiedingen door meerdere duivels.'
+      nl: 'Infernal rings zijn cadeaus van duivelachtige wezens. Zij verlijden de drager tot het verlangen van meer macht. Dit verlangen wordt vaak vervolgd door onverstandige aanbiedingen door meerdere duivels.',
+      da: ''
     }
   },
 
@@ -160,7 +169,8 @@ export default [
       es: 'Los espíritus de la naturaleza originalmente dieron estos anillos como regalos de agradecimiento a los monstruos primitivos. Muchos de estos anillos han sido robados o perdidos durante miles de años.',
       ro: 'Spiritele naturii au oferit original aceste inele drept cadou de apreciere primilor monștrii. Multe dintre aceste inele au fost furate sau pierdute de-a lungul miilor de ani.',
       pt: 'Os espíritos da natureza originalmente deram esses anéis como presentes de agradecimento aos monstros primitivos. Muitos desses anéis foram roubados ou perdidos ao longo de milhares de anos.',
-      nl: 'Natuur spirits gaven oorspronkelijk deze ringen als een cadeau van dankbaarheid aan oer monsters. Vele van deze ringen zijn gestolen over verloren door de duizenden jaren heen.'
+      nl: 'Natuur spirits gaven oorspronkelijk deze ringen als een cadeau van dankbaarheid aan oer monsters. Vele van deze ringen zijn gestolen over verloren door de duizenden jaren heen.',
+      da: ''
     }
   },
 
@@ -176,7 +186,8 @@ export default [
       es: 'Muchas facciones religiosas afirman que las personas que usan este anillo tienen el favor de una deidad; sin embargo, la deidad específica no se conoce. Muchos mascarones religiosos creen que el anonimato divino es intencional.',
       ro: 'Multe facțiuni religioase afirmă faptul că persoanele care poartă acest inel sunt favorite de o zeitate; însă, zeitatea specifică nu este cunoscută. Multe figuri religioase cred că anonimitatea divină este inenționată.',
       pt: 'Muitas facções religiosas afirmam que os indivíduos que usam este anel têm o favor de uma divindade; no entanto, a divindade específica não é conhecida. Muitas figuras religiosas acreditam que o anonimato divino é intencional.',
-      nl: 'Vele religieuze facties beweren dat de individuelen die deze ring dragen de gunst hebben ontvangen van een goddelijkheid, maar welke goddelijkheid dat is, is onbekend. Vele religieuze figuren geloven dat de goddelijke anonimiteit opzettelijk is.'
+      nl: 'Vele religieuze facties beweren dat de individuelen die deze ring dragen de gunst hebben ontvangen van een goddelijkheid, maar welke goddelijkheid dat is, is onbekend. Vele religieuze figuren geloven dat de goddelijke anonimiteit opzettelijk is.',
+      da: ''
     }
   },
 
@@ -192,7 +203,8 @@ export default [
       es: 'Los antiguos pergaminos afirman que estos anillos legendarios hacen que el usuario sea casi invencible. Los pergaminos también mencionan historias de usuarios que se vuelven corruptos y profundamente infelices.',
       ro: 'Pergamente antice susțin ca aceste inele legendare îl fac pe deținător invincibil. Pergamentele de asemenea menționează povești ale unui purtător ce a devenit corupt și profund nefericit.',
       pt: 'Os pergaminhos antigos afirmam que esses anéis lendários tornam o usuário quase invencível. Os pergaminhos também mencionam histórias de usuários que se tornaram corruptos e profundamente infelizes.',
-      nl: 'Eeuwenoude lijsten beweren dat deze legendarische ringen de drager bijna onsterfelijk maken. De lijsten vernoemen ook verhalen over dragers die corrupt worden en diepgaand blij worden.'
+      nl: 'Eeuwenoude lijsten beweren dat deze legendarische ringen de drager bijna onsterfelijk maken. De lijsten vernoemen ook verhalen over dragers die corrupt worden en diepgaand blij worden.',
+      da: ''
     }
   },
 
@@ -208,7 +220,8 @@ export default [
       es: 'Una vez por época, se encuentra un Pacificador y marca al usuario como un protector especial de los reinos. En una época pasada, el portador del Pacificador falló y comenzó la Tercera Gran Guerra.',
       ro: 'Odată la fiecare epocă, un Peacekeeper este găsit și marchează purtătorul ca pe un protector special al tărâmurilor. Într-o epocă trecută, purtătorul Peacekeeper a eșuat, iar "Third Great War" a început.',
       pt: 'Uma vez em cada era, um Peacekeeper é encontrado e marca o usuário como um protetor especial dos reinos. Em uma época passada, o portador do Peacekeeper falhou e a Terceira Grande Guerra começou.',
-      nl: 'Eens in elk tijdperk, een vredeshouder is gevonden en markeert de drager als de speciale beschermer van de rijken. In het vorige tijdperk mislukte de vredeshouder en zo begon de Derde Great War.'
+      nl: 'Eens in elk tijdperk, een vredeshouder is gevonden en markeert de drager als de speciale beschermer van de rijken. In het vorige tijdperk mislukte de vredeshouder en zo begon de Derde Great War.',
+      da: ''
     }
   }
 

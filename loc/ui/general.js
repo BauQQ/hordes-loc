@@ -21,8 +21,9 @@ export default {
     sr: 'Добро',
     it: 'Ok',
     ja: '決定',
-    cs: 'Oke'
-  },
+    cs: 'Oke',
+    da: 'Okay'
+},
 
   back: {
     en: 'Back',
@@ -45,8 +46,9 @@ export default {
     sr: 'Назад',
     it: 'Indietro',
     ja: '戻る',
-    cs: 'Zpět'
-  },
+    cs: 'Zpět',
+    da: 'Tilbage'
+},
 
   accept: {
     en: 'Accept',
@@ -69,8 +71,9 @@ export default {
     sr: 'Прихвати',
     it: 'Accetta',
     ja: '承認',
-    cs: 'Potvrdit'
-  },
+    cs: 'Potvrdit',
+    da: 'Accepter'
+},
 
   cancel: {
     en: 'Cancel',
@@ -93,8 +96,9 @@ export default {
     sr: 'Откажи',
     it: 'Annullare',
     ja: 'キャンセル',
-    cs: 'Zrušit'
-  },
+    cs: 'Zrušit',
+    da: 'Annuller'
+},
 
   decline: {
     en: 'Decline',
@@ -117,8 +121,9 @@ export default {
     sr: 'Одбиј',
     it: 'Declina',
     ja: '拒否',
-    cs: 'Odmítnout'
-  },
+    cs: 'Odmítnout',
+    da: 'Nægt'
+},
 
   close: {
     en: 'Close',
@@ -141,73 +146,86 @@ export default {
     sr: 'Затвори',
     it: 'Chiudi',
     ja: '閉じる',
-    cs: 'Zavřít'
-  },
+    cs: 'Zavřít',
+    da: 'Luk'
+},
 
   reset: {
     en: 'Reset',
-    fr: 'Réinitialiser'
-  },
+    fr: 'Réinitialiser',
+    da: 'Reset'
+},
 
   disable: {
     en: 'Disable',
-    fr: 'Désactiver'
-  },
+    fr: 'Désactiver',
+    da: 'Deaktiver'
+},
 
   playername: {
     en: 'Enter player name',
-    fr: 'Entrez le nom du joueur'
-  },
+    fr: 'Entrez le nom du joueur',
+    da: 'Indtast spillernavn'
+},
 
   streamLoad: {
     en: 'Loading streams...',
-    fr: 'Chargement des streams...'
-  },
+    fr: 'Chargement des streams...',
+    da: 'Loader streams...'
+},
 
   all: {
     en: 'All',
-    fr: 'Tous'
-  },
+    fr: 'Tous',
+    da: 'Alle'
+},
 
   filter: {
     en: 'Filter',
-    fr: 'Filtrer'
-  },
+    fr: 'Filtrer',
+    da: 'Filter'
+},
 
   apply: {
     en: 'Apply',
-    fr: 'Appliquer'
-  },
+    fr: 'Appliquer',
+    da: 'Ansøg'
+},
 
   default: {
     en: 'Default',
     fr: 'Défaut'
-  },
+},
 
   // Used for party and arena searching
   find: {
     en: 'Find',
-    fr: 'Trouver'
-  },
+    fr: 'Trouver',
+    da: 'Find'
+},
 
   // Used for party and arena searching
   searching: {
     en: 'Searching...',
-    fr: 'Recherche...'
-  },
+    fr: 'Recherche...',
+    da: 'Søger...'
+},
 
   learnable: {
     en: 'Learnable Lv.',
-    fr: 'Apprenable Niv.'
-  },
+    fr: 'Apprenable Niv.',
+    da: 'Lærbart Lv.'
+},
 
   cost: {
     en: 'Cost',
-    fr: 'Coût'
-  },
+    fr: 'Coût',
+    da: 'Koster'
+},
 
   noOptions: {
     en: 'No options',
-    fr: 'Pas d\'options'
-  }
+    fr: 'Pas d\'options',
+    da: 'Ingen Valgmuligheder'
+}
 }

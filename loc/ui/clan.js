@@ -21,7 +21,8 @@ export default {
     sr: 'Напусти клан',
     it: 'Lascia il clan',
     ja: 'クランを去る',
-    cs: 'Opustit Klan'
+    cs: 'Opustit Klan',
+    da: 'Forlad Klan'
   },
 
   heading: {
@@ -45,7 +46,8 @@ export default {
     sr: 'Клан',
     it: 'Clan',
     ja: 'クラン',
-    cs: 'Klan'
+    cs: 'Klan',
+    da: 'Klan'
   },
 
   createheading: {
@@ -69,7 +71,8 @@ export default {
     sr: 'Креирај клан',
     it: 'Crea un Clan',
     ja: 'クランを作成',
-    cs: 'Vytvořit klan'
+    cs: 'Vytvořit klan',
+    da: 'Opret Klan'
   },
 
   createname: {
@@ -93,7 +96,8 @@ export default {
     sr: 'Назив клана',
     it: 'Nome del Clan',
     ja: 'クランの名前',
-    cs: 'Název Klanu'
+    cs: 'Název Klanu',
+    da: 'Klannavn'
   },
 
   createtag: {
@@ -117,7 +121,8 @@ export default {
     sr: 'Клан Таг',
     it: 'Tag del Clan',
     ja: 'クランのタグ',
-    cs: 'Klan Tag'
+    cs: 'Klan Tag',
+    da: 'Klan Tag'
   },
 
   createbutton: {
@@ -141,17 +146,20 @@ export default {
     sr: 'Креирај',
     it: 'Crea',
     ja: '作成',
-    cs: 'Vytvořit'
+    cs: 'Vytvořit',
+    da: 'Opret'
   },
 
   noclan: {
     en: 'You have no clan',
-    fr: 'Vous n\'avez pas clan'
+    fr: 'Vous n\'avez pas clan',
+    da: 'Du har ingen klan'
   },
 
   viewinvites: {
     en: 'View invitations',
-    fr: 'Voir les invitations'
+    fr: 'Voir les invitations',
+    da: 'Se invitationer'
   },
 
   action: {
@@ -161,32 +169,38 @@ export default {
   application:
   {
     en: 'Application',
-    fr: 'Postuler'
+    fr: 'Postuler',
+    da: 'Appliktion'
   },
 
   kick: {
     en: 'Kick member',
-    fr: 'Exclure un membre'
+    fr: 'Exclure un membre',
+    da: 'Smid up'
   },
 
   setrank: {
     en: 'Set rank',
-    fr: 'Attribuer un grade'
+    fr: 'Attribuer un grade',
+    da: 'Sæt rang'
   },
 
   left: {
     en: 'Left the clan',
-    fr: 'Quitter le clan'
+    fr: 'Quitter le clan',
+    da: 'Forlod klanen'
   },
 
   memberkicked: {
     en: 'Member kicked',
-    fr: 'Membre exclu'
+    fr: 'Membre exclu',
+    da: 'Medlem smidt ud'
   },
 
   applied: {
     en: 'Applied to clan',
-    fr: 'Candidature envoyé'
+    fr: 'Candidature envoyé',
+    da: 'Ansøgte til klan'
   },
 
   // en: PlayerName invited
@@ -198,110 +212,131 @@ export default {
     },
     {
       en: ' invited',
-      fr: ' invité'
+      fr: ' invité',
+      da: ' inviteret'
     }
   ],
 
   applicationaccept: {
     en: 'Accept application',
-    fr: 'Accepter la candidature'
+    fr: 'Accepter la candidature',
+    da: 'Accepter ansøgning'
   },
 
   applicationaccepted: {
     en: 'Accepted application',
-    fr: 'Candidature acceptée'
+    fr: 'Candidature acceptée',
+    da: 'Ansøgning accepteret'
   },
 
   applicationdeny: {
     en: 'Deny application',
-    fr: 'Décliner la candidature'
+    fr: 'Décliner la candidature',
+    da: 'Nægt ansøgning'
   },
 
   applicationdenied: {
     en: 'Denied application',
-    fr: 'Candidature déclinée'
+    fr: 'Candidature déclinée',
+    da: 'Ansøgning afvist'
   },
 
   level: {
     en: 'Clan Level',
-    fr: 'Niveau du Clan'
+    fr: 'Niveau du Clan',
+    da: 'Klan Level'
   },
 
   capacity: {
     en: 'Capacity',
-    fr: 'Capacité'
+    fr: 'Capacité',
+    da: 'Kapacitet'
   },
 
   nextlevel: {
     en: 'Next Level',
-    fr: 'Prochain niveau'
+    fr: 'Prochain niveau',
+    da: 'Næste Level'
   },
 
   taxrate: {
     en: 'Tax rate',
-    fr: 'Taux d\'imposition'
+    fr: 'Taux d\'imposition',
+    da: 'Skatteprocent'
   },
 
   members: {
     en: 'Members',
-    fr: 'Membres'
+    fr: 'Membres',
+    da: 'Medlemmer'
   },
 
   online: {
     en: 'Online',
-    fr: 'En ligne'
+    fr: 'En ligne',
+    da: 'Online'
   },
 
   treasury: {
     en: 'Treasury',
-    fr: 'Trésorerie'
+    fr: 'Trésorerie',
+    da: 'Treasury'
   },
 
   highestrank: {
     en: 'Your highest rank',
-    fr: 'Votre plus haut grade'
+    fr: 'Votre plus haut grade',
+    da: 'Din højeste rang'
   },
 
   inviteplayers: {
     en: 'Invite players',
-    fr: 'Inviter des joueurs'
+    fr: 'Inviter des joueurs',
+    da: 'Inviter spillere'
   },
 
   inviteplayer: {
     en: 'Invite player',
-    fr: 'Inviter un joueur'
+    fr: 'Inviter un joueur',
+    da: 'Inviter spiller'
   },
 
   apply: {
     en: 'Apply to clan (request invitation)',
-    fr: 'Postuler au clan (demander une invitation)'
+    fr: 'Postuler au clan (demander une invitation)',
+    da: 'Ansøg til klan (forspørger invitation)'
   },
 
   applications:
   {
     en: 'Applications',
-    fr: 'Candidatures'
+    fr: 'Candidatures',
+    da: 'Ansøgninger'
   },
 
   applicationdesc: {
     en: 'This is a list of active applications to your clan. Right click to accept an application and invite the player to your clan',
-    fr: 'Ceci est une liste des membres actifs de ce clan. Faites un clic droit pour accepter une candidature et inviter le joueur dans votre clan'
+    fr: 'Ceci est une liste des membres actifs de ce clan. Faites un clic droit pour accepter une candidature et inviter le joueur dans votre clan',
+    da: 'Dette er en liste over aktive ansægninger til din klan. Højreklik for at acceptere en ansøgning og inviter spilleren til din klan'
   },
 
   player: {
     en: 'Player',
-    fr: 'Joueur'
+    fr: 'Joueur',
+    da: 'Spiller'
   },
 
   memberdesc: {
     en: 'This is a list of active members of this clan. Right click the members for additional options.',
-    fr: 'Ceci est une liste des membres actifs de ce clan. Faites un clic droit sur les membres pour plus d\'options.'
+    fr: 'Ceci est une liste des membres actifs de ce clan. Faites un clic droit sur les membres pour plus d\'options.',
+    da: 'Dette er en liste over aktive medlemmer af klanen. Højreklik på medlemmer for flere muligheder.'
   },
 
   // Member, Assistant, Officer, Owner
   rank: {
     en: 'Rank',
-    fr: 'Grade'
+    fr: 'Grade',
+    da: 'Rang'
   },
 
   roles: [

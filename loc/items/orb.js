@@ -13,7 +13,8 @@ export default [
       it: 'Questo teschio di ratto è uno strumento utile per iniziare maghi. I maghi a volte sperimentano le ossa di creature morte da lungo tempo per produrre un vaso focalizzante.',
       ro: 'Craniul de șobolan este o unealtă folositoare pentru magicienii începători. Magicienii uneori experimentează pe oasele creaturilor de mult moarte pentru a produce un vas de focalizare.',
       nl: 'Deze ratten schedel is een nuttig gereedschap voor beginnende magiërs. Magiërs experimenteren soms met de botten van al lang gestorven wezens om een focus vaartuig te produceren.',
-      zh: '這個老鼠頭骨是初學者法師的有用工具。 法師有時會在早已死去的生物的骨頭上進行實驗，以製造出聚焦容器。'
+      zh: '這個老鼠頭骨是初學者法師的有用工具。 法師有時會在早已死去的生物的骨頭上進行實驗，以製造出聚焦容器。',
+      da: ''
     }
   },
 
@@ -30,7 +31,8 @@ export default [
       it: 'Questi globi sono usati per una varietà di compiti magici. Questo è un dispositivo classico per utenti magici.',
       ro: 'Globurile acestea sunt utilizate pentru o varietate de sarcini magice. Aceste este un dispozitiv clasic pentru utilizatorii de magie.',
       nl: 'Deze globes worden gebruikt voor een aantal magische taken. Dit is een klassiek apparaat voor magie gebruikers.',
-      zh: '這些水晶球用於各種魔法任務。 這是法師的經典裝備。'
+      zh: '這些水晶球用於各種魔法任務。 這是法師的經典裝備。',
+      da: ''
     }
   },
 
@@ -47,7 +49,8 @@ export default [
       it: 'La magia interna di queste pietre consente agli uomini saggi di proteggersi durante la chiaroveggenza e le altre attività dei veggenti.',
       ro: 'Magia internă a acestor pietre le permite oamenilor înțelepți să se protejeze în timpul divinației și a altor activități clarvăzătoare.',
       nl: 'De interne magie van deze stenen laat wijze mensen toe om zich te beschermen tijdens pendelen en andere zieneractiviteiten.',
-      zh: '來自於這些石頭的永恆法術允許法師和先知在占卜的時候保護自己。'
+      zh: '來自於這些石頭的永恆法術允許法師和先知在占卜的時候保護自己。',
+      da: ''
     }
   },
 
@@ -63,7 +66,8 @@ export default [
       es: 'Los rumores sobre la inmortalidad y la transmutación inspiraron a los usuarios de magia a experimentar y crear piedras como esta. Estos orbes se volvieron útiles para aumentar el poder mágico a pesar de que los resultados experimentales no alcanzaron las intenciones originales.',
       it: 'Le voci sull\'immortalità e la trasmutazione hanno ispirato gli utenti di magia a sperimentare e creare pietre come questa. Queste sfere sono diventate utili per aumentare il potere magico nonostante i risultati sperimentali non siano stati all\'altezza delle intenzioni originali.',
       ro: 'Zvonurile despre nemurire și transmutație au inspirat utilizatorii de magie să experimenteze și să creeze astfel de pietre. Aceste sfere au devenit folositoare la sporirea puterii magiei cu toate că rezultatele experimentale sunt departe de intențiile originale.',
-      zh: '永生與稅變的傳言啟發了法師進行實驗與創造這種石頭。儘管實驗結果達不到最初的意圖，但這些法球在增強法術上有了用處。'
+      zh: '永生與稅變的傳言啟發了法師進行實驗與創造這種石頭。儘管實驗結果達不到最初的意圖，但這些法球在增強法術上有了用處。',
+      da: ''
     }
   },
 
@@ -80,7 +84,8 @@ export default [
       it: 'Questa è una fantastica componente magica che è facilmente incantata. Oggetti utili come questo spesso hanno poteri innati e spesso si trovano nelle spedizioni commerciali tra mercanti.',
       ro: 'Aceasta este o componentă magică fantastică care este și ușor fermecată. Astfel de obiecte la îndemână deseori vin cu puteri înnăscute și pot fi găsite frecvent în schimburile de comerț ale negustorilor.',
       nl: 'Dit is een fantastisch magisch component dat gemakkelijk betoverd wordt. Handige voorwerpen zoals deze komen vaak met aangeboren krachten en kunnen frequent gevonden worden in handelsverzendingen tussen handelaars.',
-      zh: '這是個神奇且可輕易附魔的魔法道具。這類的便利物品通常具有與生俱來的力量，並且經常在商人貿易間找到。'
+      zh: '這是個神奇且可輕易附魔的魔法道具。這類的便利物品通常具有與生俱來的力量，並且經常在商人貿易間找到。',
+      da: ''
     }
   },
 
@@ -96,7 +101,8 @@ export default [
       es: 'Este poderoso objeto mágico se usa a menudo para controlar los elementos e inspirar miedo en los corazones de los enemigos. Nüwa, un legendario usuario de magia de una facción de monstruos, hizo muchos objetos como este.',
       it: 'Questo potente oggetto magico viene spesso utilizzato per controllare gli elementi e ispirare la paura nel cuore dei nemici. Nüwa, un leggendario utente magico di una fazione mostruosa, realizzò molti oggetti come questo.',
       ro: 'Acest obiect magic puternic este deseori folosit pentru a controla elemente și a inspira frică în inimile dușmanilor. Nüwa, un utilizator legendar de magie dintr-o facțiune a monștrilor, a creat multe astfel de obiecte.',
-      nl: 'Dit krachtige magische object wordt vaak gebruikt voor controle te bezitten over de elementen en om angst in te zaaien in de harten van de vijanden. Nüwa, een legendarische magiër van een monsterfactie, had velen objecten zoals deze gemaakt.'
+      nl: 'Dit krachtige magische object wordt vaak gebruikt voor controle te bezitten over de elementen en om angst in te zaaien in de harten van de vijanden. Nüwa, een legendarische magiër van een monsterfactie, had velen objecten zoals deze gemaakt.',
+      da: ''
     }
   },
 
@@ -112,7 +118,8 @@ export default [
       es: 'Objetos como este fueron creados a partir de meteoritos y mal utilizados como símbolos sagrados. Aunque ya no se usan como símbolos sagrados, los Baetylus’s Eyes irradian un poder mágico sustancial.',
       it: 'Oggetti come questo sono stati creati da meteoriti e abusati come simboli sacri. Sebbene non siano più usati come simboli sacri, gli Occhi di Baetylus irradiano un notevole potere magico.',
       ro: 'Astfel de obiecte au fost create din meteoriți și folosite greșit drept simboluri sfinte. Cu toate că ele nu mai sunt folosite în acest scop, Baetylus\'s Eyes radiază putere magică substanțială.',
-      nl: 'Voorwerpen zoals deze werden gecreëerd van meteorieten en misbruikte heilige symbolen. Hoewel ze niet langer gebruikt worden als heilig symbool, straalt Baetylus\'s Eyes voldoende magische kracht uit.'
+      nl: 'Voorwerpen zoals deze werden gecreëerd van meteorieten en misbruikte heilige symbolen. Hoewel ze niet langer gebruikt worden als heilig symbool, straalt Baetylus\'s Eyes voldoende magische kracht uit.',
+      da: ''
     }
   },
 
@@ -128,7 +135,8 @@ export default [
       es: 'Las Benben Stones se colocaron encima de las pirámides de una antigua raza muerta. Las piedras absorbieron miles de años de energía solar, que se decía que era un regalo de una deidad solar.',
       it: 'Le pietre di Benben furono poste in cima alle piramidi di un\'antica razza morta. Le pietre hanno assorbito energia solare per migliaia di anni, che si diceva fosse un dono di una divinità solare.',
       ro: 'Benben Stones au fost plasate în vârful piramidelor unei rase antice, moarte. Pietrele absorbeau mii de ani de energie solară, ceea ce se spunea că ar fi un cadou de la o zeitate a soarelui.',
-      nl: 'Benben Stones werden geplaatst bovenop Pyramides van een eeuwenoud, dood ras. De stenen absorbeerden duizenden jaren aan zonnen energie, waarover gezegd werd dat het een cadeau was van de zon god.'
+      nl: 'Benben Stones werden geplaatst bovenop Pyramides van een eeuwenoud, dood ras. De stenen absorbeerden duizenden jaren aan zonnen energie, waarover gezegd werd dat het een cadeau was van de zon god.',
+      da: ''
     }
   },
 
@@ -144,7 +152,8 @@ export default [
       es: 'Las piedras de serpiente antiguas como esta se encontraron en altares olvidados dentro de ruinas antiguas. Los estudiosos dicen que las piedras probablemente se usaron para adorar a una deidad serpiente, pero los textos encontrados en las ruinas aún no se han traducido con éxito.',
       it: 'Antiche pietre di serpente come questa sono state trovate su altari dimenticati all\'interno di antiche rovine. Gli studiosi affermano che le pietre furono probabilmente utilizzate per adorare una divinità serpente, ma i testi trovati nelle rovine non sono stati ancora tradotti con successo.',
       ro: 'Astfel de pietre antice ale șerpilor au fost găsite pe altare uitate în interiorul unor ruine antice. Cărturarii spun că aceste pietre au fost probabil utilizate în adorația unei zeități a șerpilor, dat textele găsite în ruine nu au putut fi traduse cu succes încă.',
-      nl: 'Eeuwenoude Snake Stones zoals deze werden gevonden op vergeten altaren in ruïnes. Geleerden zeggen dat de stenen waarschijnlijk werden gebruikt tijdens het aanbieden van een slang god, maar de teksten die in de ruïnes gevonden waren zijn nog niet succesvol vertaald.'
+      nl: 'Eeuwenoude Snake Stones zoals deze werden gevonden op vergeten altaren in ruïnes. Geleerden zeggen dat de stenen waarschijnlijk werden gebruikt tijdens het aanbieden van een slang god, maar de teksten die in de ruïnes gevonden waren zijn nog niet succesvol vertaald.',
+      da: ''
     }
   },
 
@@ -160,7 +169,8 @@ export default [
       es: 'La filacteria del Lich contiene el alma de una poderosa criatura no muerta. Las filacterias más antiguas tienen encantamientos poderosos para proteger al usuario, y al alma que contiene.',
       it: 'Il filatterio di un lich contiene l\'anima di una potente creatura non morta. I filatteri più vecchi sono dotati di potenti incantesimi per proteggere chi lo indossa e l\'anima contenuta all\'interno.',
       ro: 'Un Lich\'s Phylactery conține sufletul unei creature puternice nemuritoare. Astfel de filacterii mai vechi vin cu descântece puternice pentru a proteja purtătorul — și sufletul din interiorul acestora.',
-      nl: 'Een lich z\'n fylacterion bevat de ziel van een krachtig ondood wezen. Oudere fylacterion bezitten krachtige betoveringen om de drager en de ziel erin te beschermen.'
+      nl: 'Een lich z\'n fylacterion bevat de ziel van een krachtig ondood wezen. Oudere fylacterion bezitten krachtige betoveringen om de drager en de ziel erin te beschermen.',
+      da: ''
     }
   }
 ]

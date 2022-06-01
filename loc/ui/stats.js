@@ -47,17 +47,21 @@ export default {
       ko: '데미지',
       cs: 'Poškození'
       // pl: 'Obrażenia'
-      // vi: 'Sát thương'
+      // vi: 'Sát thương',
+      da: ''
     },
     healing: {
       en: 'Healing',
-      fr: 'Soin'
+      fr: 'Soin',
+      da: ''
     },
     fame: {
-      en: 'Fame'
+      en: 'Fame',
+      da: ''
     },
     kills: {
-      en: 'Kills'
+      en: 'Kills',
+      da: ''
     }
   },
 
@@ -79,7 +83,8 @@ export default {
       sr: 'Снага',
       ja: 'パワー',
       ko: '힘',
-      cs: 'Síla'
+      cs: 'Síla',
+      da: ''
     },
 
     {
@@ -99,7 +104,8 @@ export default {
       sr: 'Стамина',
       ja: 'スタミナ',
       ko: '마나',
-      cs: 'Vytrvalost'
+      cs: 'Vytrvalost',
+      da: ''
     },
 
     {
@@ -119,7 +125,8 @@ export default {
       sr: 'Спретност',
       ja: '器用さ',
       ko: '민첩',
-      cs: 'Obratnost'
+      cs: 'Obratnost',
+      da: ''
     },
 
     {
@@ -139,7 +146,8 @@ export default {
       sr: 'Интелигенција',
       ja: '知性',
       ko: '지능',
-      cs: 'Inteligence'
+      cs: 'Inteligence',
+      da: ''
     },
 
     {
@@ -159,7 +167,8 @@ export default {
       ja: '賢さ',
       ko: '지혜',
       cs: 'Moudrost'
-      // vi: 'Thông thái'
+      // vi: 'Thông thái',
+      da: ''
     },
 
     {
@@ -179,23 +188,28 @@ export default {
       ko: '운',
       cs: 'Štěstí'
       // hu: 'Szerencse'
-      // pl: 'Szczęście'
+      // pl: 'Szczęście',
+      da: ''
     },
 
     {
-      $$: 'HP'
+      $$: 'HP',
+      da: ''
     },
 
     {
-      $$: 'MP'
+      $$: 'MP',
+      da: ''
     },
 
     {
-      $$: 'HP Reg./5s'
+      $$: 'HP Reg./5s',
+      da: ''
     },
 
     {
-      $$: 'MP Reg./5s'
+      $$: 'MP Reg./5s',
+      da: ''
     },
 
     {
@@ -215,7 +229,8 @@ export default {
       ko: '최소 데미지',
       cs: 'Min. Poš.'
       // el: 'Ελάχιστη Ζημιά'
-      // vi: 'Sát thương nhỏ nhất'
+      // vi: 'Sát thương nhỏ nhất',
+      da: ''
     },
 
     {
@@ -235,7 +250,8 @@ export default {
       ja: '最大ダメージ',
       ko: '최대 데미지',
       cs: 'Max. Poš.'
-      // vi: 'Sát thương lớn nhất'
+      // vi: 'Sát thương lớn nhất',
+      da: ''
     },
 
     {
@@ -255,7 +271,8 @@ export default {
       sr: 'Одбрана',
       ja: '防御力',
       ko: '방어',
-      cs: 'Obrana'
+      cs: 'Obrana',
+      da: ''
     },
 
     {
@@ -275,7 +292,8 @@ export default {
       sr: 'Блок',
       ja: 'ブロック',
       ko: '막기',
-      cs: 'Blok'
+      cs: 'Blok',
+      da: ''
     },
 
     {
@@ -295,7 +313,8 @@ export default {
       ja: 'クリティカル',
       ko: '크리티컬',
       cs: 'Kritický'
-      // el: 'Καίριο Χτύπημα'
+      // el: 'Καίριο Χτύπημα',
+      da: ''
     },
 
     {
@@ -315,7 +334,8 @@ export default {
       // el: 'Ταχύτητα Κίνησης'
       // pl: 'Prędkość ruchu'
       // vi: 'Tốc độ di chuyển'
-      // de: 'Bewegungstempo'
+      // de: 'Bewegungstempo',
+      da: ''
     },
 
     {
@@ -335,7 +355,8 @@ export default {
       sr: 'Журба',
       ja: '機敏さ',
       ko: '순간 속력',
-      cs: 'Rychlost'
+      cs: 'Rychlost',
+      da: ''
     },
 
     {
@@ -355,7 +376,8 @@ export default {
       ja: '攻撃速度',
       ko: '공격 속도',
       cs: 'Rychl. Útoku'
-      // el: 'Ταχύτητα Επίθεσης'
+      // el: 'Ταχύτητα Επίθεσης',
+      da: ''
     },
 
     {
@@ -375,7 +397,8 @@ export default {
       cs: 'Hledaní předmětů'
       // el: 'Εύρεση Αντικειμένων'
       // pl: 'Wyszukiwanie przedmiotu'
-      // vi: 'Tỉ lệ tìm vật phẩm'
+      // vi: 'Tỉ lệ tìm vật phẩm',
+      da: ''
     },
 
     {
@@ -395,11 +418,13 @@ export default {
       ja: 'バッグの広さ',
       ko: '가방 공간',
       cs: 'Místa v baťohu'
-      // es: 'Espacios de inventario'
+      // es: 'Espacios de inventario',
+      da: ''
     },
 
     {
-      en: 'Prestige'
+      en: 'Prestige',
+      da: ''
     },
 
     {
@@ -411,7 +436,8 @@ export default {
       tr: 'Değerlendirme',
       ja: 'レーティング',
       cs: 'Hodnocení',
-      zh: '評分'
+      zh: '評分',
+      da: ''
     },
 
     {
@@ -456,17 +482,20 @@ export default {
 
     {
       en: 'Skill Points (Max)',
-      fr: 'Points de Compétences (Max)'
+      fr: 'Points de Compétences (Max)',
+      da: ''
     },
 
     {
-      $$: 'Gear Score'
+      $$: 'Gear Score',
+      da: ''
     },
 
     {
       en: 'PvP Level',
       ru: 'Уровень PvP',
-      fr: 'Niveau PvP'
+      fr: 'Niveau PvP',
+      da: ''
     },
 
     {
@@ -486,7 +515,8 @@ export default {
       ja: '% ダメージ増加',
       ko: '% 데미지 증가',
       cs: '% Zvýšení poš.'
-      // pl: '% Zwiększone obrażenia'
+      // pl: '% Zwiększone obrażenia',
+      da: ''
     },
 
     {
@@ -506,7 +536,8 @@ export default {
       tr: '% Artan Kızdırma ÜRetimi',
       ja: '% ヘイト誘発増加',
       ko: '% 몹 어그로 증가',
-      cs: '% Zvýšení Generování Agra.'
+      cs: '% Zvýšení Generování Agra.',
+      da: ''
     },
 
     {
@@ -544,7 +575,8 @@ export default {
       ja: '回復阻害',
       ko: '힐링 감소',
       cs: 'Redukce léčení',
-      zh: '治療減少'
+      zh: '治療減少',
+      da: ''
     }
   ]
 }

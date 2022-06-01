@@ -10,7 +10,8 @@ export default [
       it: 'Questo è uno scudo di fortuna che sembra essere stato prodotto per necessità.',
       es: 'Este es un escudo improvisado que parece haberse producido por necesidad.',
       nl: 'Dit in elkaar gezette schild lijkt geproduceerd te zijn uit noodzaak.',
-      zh: '這是一個臨時的盾牌，似乎是出於必要而生產的。'
+      zh: '這是一個臨時的盾牌，似乎是出於必要而生產的。',
+      da: ''
     }
   },
 
@@ -25,7 +26,8 @@ export default [
       it: 'I bucklers possono essere una protezione utile contro le armi piccole e leggere. I pirati usano spesso buckler per la manovrabilità.',
       es: 'Los Bucklers pueden ser una protección útil contra armas pequeñas y ligeras. Los piratas a menudo usan escudos para maniobrar.',
       nl: 'Bucklers kunnen nuttig zijn als bescherming tegen kleine en lichte wapens. Piraten gebruiken vaak Bucklers voor bewegelijkheid.',
-      zh: '小圓盾可以有效保護小型和輕型武器。海盜經常使用小圓盾來提高機動性。'
+      zh: '小圓盾可以有效保護小型和輕型武器。海盜經常使用小圓盾來提高機動性。',
+      da: ''
     }
   },
 
@@ -40,7 +42,8 @@ export default [
       it: 'Questo è un tipo di scudo che viene spesso realizzato durante i periodi di guerra. Sebbene economico, lo scudo è realizzato in robusta corteccia di ferro.',
       es: 'Este es un tipo de escudo que a menudo se hace durante los tiempos de guerra. Aunque es barato, el escudo está hecho de resistente corteza de hierro.',
       nl: 'Dit is een schild type dat regelmatig gemaakt wordt in oorlogstijden. Hoewel het goedkoop is, is het gemaakt van stevig ironbark.',
-      zh: '這是一種盾牌類型，通常在戰爭時期製造。雖然便宜，但盾牌是由堅固的鐵桉木製成的。'
+      zh: '這是一種盾牌類型，通常在戰爭時期製造。雖然便宜，但盾牌是由堅固的鐵桉木製成的。',
+      da: ''
     }
   },
 
@@ -55,7 +58,8 @@ export default [
       it: 'Le sentinelle del Regno usano spesso scudi come questo per ridurre i danni ricevuti e proteggere i cittadini.',
       es: 'Los centinelas del Reino a menudo usan escudos como este para reducir el daño recibido y proteger a los ciudadanos.',
       nl: 'Koninklijke schildwachters gebruiken vaak dit soort schilden om schade te verminderen en om burgers te beschermen.',
-      zh: '王國哨兵經常使用這樣的盾牌來減少受到的傷害並保護居民。'
+      zh: '王國哨兵經常使用這樣的盾牌來減少受到的傷害並保護居民。',
+      da: ''
     }
   },
 
@@ -70,7 +74,8 @@ export default [
       it: 'Questo scudo è realizzato in metallo scuro e unto con un olio nero. Gli avventurieri con questo tipo di scudo si distingueranno sicuramente dagli altri.',
       es: 'Este escudo está hecho de metal oscuro y ungido con un aceite negro. Los aventureros con este tipo de escudo seguramente se destacarán del resto.',
       nl: 'Dit schild is gemaakt van darkmetal en is gezalfd in black oil. Avonturiers met dit soort schilden zullen zeker opvallen tussen de rest.',
-      zh: '這面盾牌由黑暗金屬製成，並塗有黑油。擁有這種盾牌的冒險者必然會脫穎而出。'
+      zh: '這面盾牌由黑暗金屬製成，並塗有黑油。擁有這種盾牌的冒險者必然會脫穎而出。',
+      da: ''
     }
   },
 
@@ -84,7 +89,8 @@ export default [
       vi: 'Spiked Warshields mạnh mẽ trong trận chiến và phù hợp với văn hóa orcish. Các chiến binh Orc kỳ cựu khoe chiến tích của họ trên các mặt của khiên.',
       it: 'Gli Spiked Warshields sono robusti in battaglia e adatti alla cultura degli orchi. I guerrieri orchi veterani mostrano le loro tacche di vittoria sui lati dei loro scudi.',
       es: 'Los Spiked Warshields son robustos en la batalla y adecuados para la cultura orca. Los guerreros orcos veteranos muestran sus muescas de victoria a los lados de sus escudos.',
-      nl: 'Spiked Warshields zijn robuust voor de strijd en gepast voor orc cultuur. Veterane orc strijders tonen hun overwinning gleuven op de zijkanten van hun schilden.'
+      nl: 'Spiked Warshields zijn robuust voor de strijd en gepast voor orc cultuur. Veterane orc strijders tonen hun overwinning gleuven op de zijkanten van hun schilden.',
+      da: ''
     }
   },
 
@@ -98,7 +104,8 @@ export default [
       vi: 'Paladin có được lá chắn này khi họ đạt được một mức độ sùng kính tâm linh nhất định. Tuy nhiên, những chiếc khiên paladin này đôi khi được nhìn thấy mà không có chủ nhân của chúng...',
       it: 'I paladini acquisiscono questo scudo quando raggiungono un certo livello di devozione spirituale. Tuttavia, questi scudi sono talvolta visti senza i loro proprietari...',
       es: 'Los paladines adquieren este escudo cuando alcanzan cierto nivel de devoción espiritual. Sin embargo, estos escudos de paladín a veces se ven sin sus dueños...',
-      nl: 'Paladijnen krijgen dit schild zodra ze een niveau van spirituele vastberadenheid bereiken. Maar deze paladijn schilden worden soms gespot zonder hun eigenaren...'
+      nl: 'Paladijnen krijgen dit schild zodra ze een niveau van spirituele vastberadenheid bereiken. Maar deze paladijn schilden worden soms gespot zonder hun eigenaren...',
+      da: ''
     }
   },
 
@@ -112,7 +119,8 @@ export default [
       vi: 'Loại khiên này được tạo ra bởi những người phàm tục bằng băng chỉ có ở Địa ngục. Mặc dù chiếc khiên rất mạnh, nhưng những đặc tính khác thường và hiếm có của Underworld Ice khiến những nỗ lực sinh tử trong việc tái tạo lại những chiếc khiên này là không đủ.',
       it: 'Questo tipo di scudo è realizzato da mortali con ghiaccio che si trova solo negli Inferi. Sebbene lo scudo sia potente, le insolite proprietà e la rarità dell\'Underworld Ice rendono i tentativi mortali di ricostruire questi scudi carenti nella migliore delle ipotesi.',
       es: 'Este tipo de escudo está hecho por mortales con hielo que solo se encuentra en el Inframundo. Aunque el escudo es poderoso, las propiedades inusuales y la rareza del Underworld Ice hacen que los intentos mortales de reconstruir estos escudos sean inadecuados en el mejor de los casos.',
-      nl: 'Dit type schild is gemaakt door stervelingen met ijs uit de onderwereld. Hoewel het schild krachtig is, zorgen de ongewone eigenschappen en zeldzaamheid van het onderwereldijs dat sterfelijke pogingen op de recreatie van deze schilden onvoldoende is.'
+      nl: 'Dit type schild is gemaakt door stervelingen met ijs uit de onderwereld. Hoewel het schild krachtig is, zorgen de ongewone eigenschappen en zeldzaamheid van het onderwereldijs dat sterfelijke pogingen op de recreatie van deze schilden onvoldoende is.',
+      da: ''
     }
   },
 
@@ -126,7 +134,8 @@ export default [
       vi: 'Lá chắn thiêng liêng này được gói gọn trong truyền thuyết và tin đồn. Một cuộn giấy cổ cho biết cách chiếc khiên tạo ra các bản sao giả của người dùng để gây nhầm lẫn cho đối thủ. Một cuộn khác giải thích rằng chiếc khiên được mô phỏng theo chiếc khiên được sử dụng bởi một vị thần.',
       it: 'Questo scudo sacro è avvolto da leggende e voci. Un\'antica pergamena racconta come lo scudo abbia creato false copie dell\'utente per confondere gli avversari. Un altro rotolo spiega in alternativa che lo scudo è stato modellato sullo stesso scudo brandito da una divinità.',
       es: 'Este escudo sagrado está envuelto en leyendas y rumores. Un pergamino antiguo cuenta cómo el escudo creó copias falsas del usuario para confundir a los oponentes. Otro pergamino explica alternativamente que el escudo fue modelado según el escudo manejado por una deidad.',
-      nl: 'Dit heilige schild is ingepakt in legendes en geruchten. Een oude rol verteld dat het schild kopieën maakte van de gebruiker om de tegenstander te verwarren. Een andere rol zegt dat het schild gemodelleerd is naar een schild van een goddelijkheid.'
+      nl: 'Dit heilige schild is ingepakt in legendes en geruchten. Een oude rol verteld dat het schild kopieën maakte van de gebruiker om de tegenstander te verwarren. Een andere rol zegt dat het schild gemodelleerd is naar een schild van een goddelijkheid.',
+      da: ''
     }
   },
 
@@ -140,7 +149,8 @@ export default [
       vi: 'Bề mặt thần thánh trên chiếc khiên này là những hoạt họa và có thể thu hút một người dùng xứng đáng với sức mạnh tuyệt vời. Một số nhà quan sát tin rằng mắt chớp mắt cho phép họa sĩ bí ẩn và thần thánh nhìn thế giới.',
       it: 'La pittura divina su questo scudo è animata e può conferire a un degno utente poteri fantastici. Alcuni osservatori credono che l\'occhio lampeggiante permetta al pittore misterioso e divino di vedere il mondo.',
       es: 'La pintura divina en este escudo es animada y puede imbuir a un usuario digno de poderes fantásticos. Algunos observadores creen que el ojo parpadeante permite que el pintor misterioso y divino vea el mundo.',
-      nl: 'De beholder’s eye in het midden van dit schild zaait angst in het hart van vele tegenstanders die beweren dat ze onbevreesd zijn. De houdbaarheid methode die ervoor zorgt dat het organische oog nog steeds functioneert is nog steeds een mysterie.'
+      nl: 'De beholder’s eye in het midden van dit schild zaait angst in het hart van vele tegenstanders die beweren dat ze onbevreesd zijn. De houdbaarheid methode die ervoor zorgt dat het organische oog nog steeds functioneert is nog steeds een mysterie.',
+      da: ''
     }
   }
 
