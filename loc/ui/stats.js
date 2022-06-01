@@ -124,7 +124,7 @@ export default {
       ja: '器用さ',
       ko: '민첩',
       cs: 'Obratnost',
-      da: ''
+      da: 'Dexterity'
     },
 
     {
@@ -145,7 +145,7 @@ export default {
       ja: '知性',
       ko: '지능',
       cs: 'Inteligence',
-      da: ''
+      da: 'Intelligence'
     },
 
     {
@@ -164,9 +164,9 @@ export default {
       sr: 'Мудрост',
       ja: '賢さ',
       ko: '지혜',
-      cs: 'Moudrost',
+      cs: 'Moudrost',      
+      da: 'Wisdom'
       // vi: 'Thông thái',
-      da: ''
     },
 
     {
@@ -185,29 +185,25 @@ export default {
       ja: '運',
       ko: '운',
       cs: 'Štěstí',
+      da: 'Luck'
       // hu: 'Szerencse'
       // pl: 'Szczęście',
-      da: ''
     },
 
     {
-      $$: 'HP',
-      da: ''
+      $$: 'HP'
     },
 
     {
-      $$: 'MP',
-      da: ''
+      $$: 'MP'
     },
 
     {
-      $$: 'HP Reg./5s',
-      da: ''
+      $$: 'HP Reg./5s'
     },
 
     {
-      $$: 'MP Reg./5s',
-      da: ''
+      $$: 'MP Reg./5s'
     },
 
     {
@@ -226,9 +222,9 @@ export default {
       ja: '最小ダメージ',
       ko: '최소 데미지',
       cs: 'Min. Poš.',
+      da: 'Min Dmg.'
       // el: 'Ελάχιστη Ζημιά'
       // vi: 'Sát thương nhỏ nhất',
-      da: ''
     },
 
     {
@@ -248,8 +244,8 @@ export default {
       ja: '最大ダメージ',
       ko: '최대 데미지',
       cs: 'Max. Poš.',
+      da: 'Max Dmg.'
       // vi: 'Sát thương lớn nhất',
-      da: ''
     },
 
     {
@@ -270,7 +266,7 @@ export default {
       ja: '防御力',
       ko: '방어',
       cs: 'Obrana',
-      da: ''
+      da: 'Defense'
     },
 
     {
@@ -291,7 +287,7 @@ export default {
       ja: 'ブロック',
       ko: '막기',
       cs: 'Blok',
-      da: ''
+      da: 'Block'
     },
 
     {
@@ -311,8 +307,8 @@ export default {
       ja: 'クリティカル',
       ko: '크리티컬',
       cs: 'Kritický',
+      da: 'Critical'
       // el: 'Καίριο Χτύπημα',
-      da: ''
     },
 
     {
@@ -329,11 +325,11 @@ export default {
       ja: '移動速度',
       ko: '이속',
       cs: 'Rychl. Pohybu',
+      da: 'Move Spd.'
       // el: 'Ταχύτητα Κίνησης'
       // pl: 'Prędkość ruchu'
       // vi: 'Tốc độ di chuyển'
       // de: 'Bewegungstempo',
-      da: ''
     },
 
     {
@@ -354,7 +350,7 @@ export default {
       ja: '機敏さ',
       ko: '순간 속력',
       cs: 'Rychlost',
-      da: ''
+      da: 'Haste'
     },
 
     {
@@ -374,8 +370,8 @@ export default {
       ja: '攻撃速度',
       ko: '공격 속도',
       cs: 'Rychl. Útoku',
+      da: 'Attack Spd.'
       // el: 'Ταχύτητα Επίθεσης',
-      da: ''
     },
 
     {
@@ -393,10 +389,10 @@ export default {
       ja: 'アイテム探知',
       ko: '아이템 흭득',
       cs: 'Hledaní předmětů',
+      da: 'Item Find'
       // el: 'Εύρεση Αντικειμένων'
       // pl: 'Wyszukiwanie przedmiotu'
       // vi: 'Tỉ lệ tìm vật phẩm',
-      da: ''
     },
 
     {
@@ -416,13 +412,12 @@ export default {
       ja: 'バッグの広さ',
       ko: '가방 공간',
       cs: 'Místa v baťohu',
+      da: 'Bag Slots'
       // es: 'Espacios de inventario',
-      da: ''
     },
 
     {
-      en: 'Prestige',
-      da: ''
+      en: 'Prestige'
     },
 
     {
@@ -435,7 +430,7 @@ export default {
       ja: 'レーティング',
       cs: 'Hodnocení',
       zh: '評分',
-      da: ''
+      da: 'Rating'
     },
 
     {
@@ -452,7 +447,7 @@ export default {
       sr: 'Поени за стат.',
       ko: '스텟 포인트',
       cs: 'Statistické Dody',
-      da: ''
+      da: 'Stat Points'
       // ja: 'ステータスポイント',
       // tr: 'İstatistik Puanları',
       // pl: 'Punkty Statystyk'
@@ -476,14 +471,14 @@ export default {
       ja: 'スキルポイント',
       ko: '스킬 포인트',
       cs: 'Dovednostní Body',
-      da: ''
+      da: 'Skill Points'
       // el: 'Πόντοι Ικανοτήτων',
     },
 
     {
       en: 'Skill Points (Max)',
       fr: 'Points de Compétences (Max)',
-      da: ''
+      da: 'Skill Points (Max)'
     },
 
     {
@@ -494,7 +489,7 @@ export default {
       en: 'PvP Level',
       ru: 'Уровень PvP',
       fr: 'Niveau PvP',
-      da: ''
+      da: 'PvP Level'
     },
 
     {
@@ -514,7 +509,7 @@ export default {
       ja: '% ダメージ増加',
       ko: '% 데미지 증가',
       cs: '% Zvýšení poš.',
-      da: ''
+      da: '% Øget Dmg.'
       // pl: '% Zwiększone obrażenia',
     },
 
@@ -536,7 +531,7 @@ export default {
       ja: '% ヘイト誘発増加',
       ko: '% 몹 어그로 증가',
       cs: '% Zvýšení Generování Agra.',
-      da: ''
+      da: '% Øget Aggro Generation'
     },
 
     {
@@ -556,7 +551,7 @@ export default {
       ja: '% 移動速度低下',
       ko: '% 이속 감소',
       cs: '% Redukce Rychl. Pohybu',
-      da: ''
+      da: '% Movement Spd. Reducering'
       // de: '% verminderte Laufgeschwindigkeit',
     },
 
@@ -576,7 +571,7 @@ export default {
       ko: '힐링 감소',
       cs: 'Redukce léčení',
       zh: '治療減少',
-      da: ''
+      da: 'Healing Reducering'
     }
   ]
 }

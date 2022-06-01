@@ -21,7 +21,7 @@ export default {
       tr: 'En iyi ürünlere hoş geldiniz! Size verdiğim fiyattan daha iyi bir fiyat bulamayacaksınız; ancak, şimdiye kadar gördüğüm hiçbir şeye benzemeyen harika eşyalara sahip özel bir dükkan olduğunu duydum. Bu arada, biraz fazladan param ve fazladan ürünlerim var. Herhangi bir şey satmak ister misin?',
       ja: '最高の商店へようこそ！ここら一帯で私に勝る商店は御座いません、是非ともご贔屓下さい。ですが、前代未聞の素晴らしい商品を販売しているスゴい店が何処かに在るとか無いとか。お客様がそちらに流れていってしまうまでの間は、こちらで承りましょう。何か売り物はございますか？',
       cs: 'Vítej u nejlepšího obchodníka v okolí! Nenajdeš lepší nikde ceny než to, co pro tebe mám já; Slyšel jsem však, že existuje speciální obchod s fantastickými předměty, na rozdíl od všeho, co jsem kdy viděl. Mezitím mám nějaké mince a zboží zboží navíc. Chceš něco prodat?',
-      da: ''
+      da: 'Velkommen til, vi har de bedste vare! Du finder ikke bedre priser end hvad jeg har. Men jeg har hørt, at der er en special butik der sælger varer, jeg aldrig har set før. Jeg har også en del mønter og andre varer. Vil du sælge noget?'
     },
 
     choices: [{
@@ -42,7 +42,7 @@ export default {
       ja: '商品を見せて下さい。',
       cs: 'Ukaz mi své zboží',
       zh: '給我看看你的商品。',
-      da: ''
+      da: 'Vis mig dine varer.'
     }]
   }],
 
@@ -66,7 +66,8 @@ export default {
     it: 'Vendi i tuoi articoli.',
     tr: 'Eşyalarını sat',
     ja: '売るアイテムを選択して下さい。',
-    cs: 'Prodej své zboží'
+    cs: 'Prodej své zboží',
+    da: 'Sælg dine ting.'
   },
 
   info: {
@@ -89,7 +90,8 @@ export default {
     vi: 'Để bán vật phẩm, nhấn shift-chuột phải hoặc kéo thả vào cửa sổ giao dịch.',
     it: 'Per vendere un oggetto, fai clic con il tasto destro del mouse o trascinalo nella finestra del commerciante.',
     ja: 'アイテムを売るには、Shiftキーを押しながら右クリックするか、トレーダーウィンドウへドラッグして下さい。',
-    cs: 'Chcete-li předmět prodat, podržte shift a klepněte na ni pravým tlačítkem myši nebo ji přetáhněte do okna obchodníka.'
+    cs: 'Chcete-li předmět prodat, podržte shift a klepněte na ni pravým tlačítkem myši nebo ji přetáhněte do okna obchodníka.',
+    da: 'For at sælge dine ting, shift-højre-klik det eller træk det ind i butiksvinduet.'
   },
 
   // Include punctuation and space.
@@ -113,7 +115,8 @@ export default {
     vi: 'Giá bán: ',
     it: 'Prezzo di vendita: ',
     ja: '売値: ',
-    cs: 'Prodávající cena'
+    cs: 'Prodávající cena',
+    da: 'Salgs pris: '
   },
 
   buy: {
@@ -135,21 +138,25 @@ export default {
     vi: 'Bạn có hứng thú với cái gì không? Nhấn vào vật phẩm để mua nó.',
     it: 'Sei interessato a qualcosa? Fai clic su un articolo per acquistarlo.',
     ja: '何か興味がありますか？クリックして購入して下さい。',
-    cs: 'Zajímá tě něco? Kliknutím koupíš předmět'
+    cs: 'Zajímá tě něco? Kliknutím koupíš předmět',
+    da: 'Er du interesseret in noget? Klik på varen for at købe den.'
   },
 
   refuse: {
     en: 'The trader does not want this item',
-    fr: 'Le commerçant ne veut pas de cet objet'
+    fr: 'Le commerçant ne veut pas de cet objet',
+    da: 'Købmanden vil ikke have denne vare.'
   },
 
   select: {
     en: 'Select an item to sell',
-    fr: 'Sélectionnez un objet à vendre'
+    fr: 'Sélectionnez un objet à vendre',
+    da: 'Vælg en ting du vil sælge'
   },
 
   name: {
     en: 'Trader',
-    fr: 'Commerçant'
+    fr: 'Commerçant',
+    da: 'Købmand'
   }
 }

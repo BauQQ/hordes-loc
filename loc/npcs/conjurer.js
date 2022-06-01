@@ -46,7 +46,7 @@ export default {
       it: 'Per favore portami a $1',
       ja: '$1へ連れて行って下さい。',
       cs: 'Prosím vezmi mě do $1.',
-      da: ''
+      da: 'Venligst send mig til $1'
     }]
   }]
 }
