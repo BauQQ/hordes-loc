@@ -15,7 +15,7 @@ export default [
       nl: 'Verzonden vanuit de onbezochte gebieden van Faivel. De inhoud van deze kooi kan niet worden geïnspecteerd tot het geopened is.',
       zh: '來自Faivel的未開發區域，在打開之前你永遠不會知道它裡面裝了些什麼。',
       tr: 'Faivel\'in keşfedilmemiş bölgelerinden kargolandı. Bu kafesin içindeki açılana kadar gözlenemez.',
-      da: ''
+      da: 'Sendt fra de uudforskede regioner i Faivel. Indholdet i denne boks kan ikke inspekseres, medmindre du åbner boksen.'
     }
   },
   {
@@ -25,7 +25,7 @@ export default [
       ru: 'Волшебное зелье из синего эликсира, которое дарит вашему аккаунту полезные возможности.',
       fr: 'Une potion d\'élixir bleue magique qui accorde à votre compte des fonctionnalités supplémentaires utiles.',
       tr: 'Hesabına fazladan kullanışlı özellikler ekleyen sihirli mavi bir iksir.',
-      da: ''
+      da: 'En magisk blålig væske, der giver din konto adgang til ekstra funktioner og frynsegoder.'
     }
   }
 ]

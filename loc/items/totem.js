@@ -11,7 +11,7 @@ export default [
       it: 'Queste piume assorbono i sogni e gli incubi di coloro che dormono vicino ad essa. I sogni e gli incubi sono immagazzinati e riutilizzati sotto forma di magia.',
       es: 'Estas plumas absorben los sueños y las pesadillas de aquellos que duerman cerca de ella. Los sueños y las pesadillas serán guardados y reusados en forma de magia.',
       zh: '這些羽毛吸收了睡在它附近的人的夢境和噩夢。這些夢和噩夢以魔法的形式被儲存和重複使用。',
-      da: ''
+      da: 'Disse fjer, fanger drømme og mareridts når du som tæt på dem. Disse drømme og mareridts er gemt og kan blive brugt som magi.'
     }
   },
 
@@ -27,7 +27,7 @@ export default [
       it: 'Una creatura soprannaturale legata a questa bambola alimenta il potere magico disponibile per l\'utente.',
       es: 'Una criatura sobrenatural unida a este muñeco alimenta el poder mágico disponible al usuario.',
       zh: '綁定在這個玩偶上的超自然生物為使用者提供魔法能量。',
-      da: ''
+      da: 'Et overnaturligt væsen bundet til denne dukke, giver brugeren adgang til magiks kraft.'
     }
   },
 
@@ -43,7 +43,7 @@ export default [
       it: 'Questa è un recipiente che emana magia proveniente dalla natura.',
       es: 'Este es un recipiente que emana magia proveniente de la naturaleza.',
       zh: '這是個從自然中散發出魔力的容器。',
-      da: ''
+      da: 'Dette er en beholder, der stråler af magik med en oprindelse fra naturen.'
     }
   },
 
@@ -59,7 +59,7 @@ export default [
       it: 'Queste perle venivano portate dai santi sacerdoti come mezzo per conservare il potere divino e contare le loro benedizioni. Parte del potere divino risiede ancora all\'interno di ciascuna perla.',
       es: 'Estos rosarios fueron portados por sacerdotes benditos con el objetivo de guardar poder divino y contar sus bendiciones. Parte del poder divino sigue en cada rosario.',
       zh: '這些珠子由聖職人員攜帶，作為他們儲存神力和計算祝福的手段。每顆珠子中還殘留著一些神力。',
-      da: ''
+      da: 'Disse perler var brugt ef hellige præster til at gemme en guddommelig kraft og deres velsignelser. Noget af den guddommelige kraft kan stadig findes i hver enkelt perle.'
     }
   },
 
